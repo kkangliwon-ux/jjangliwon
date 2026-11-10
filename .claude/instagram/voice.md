@@ -78,3 +78,6 @@ the source doc are NOT approved decisions.
   as separate copyable blocks.
 - Formats: carousel 4:5, reels 9:16. Slots: carousel 11:00 MYT, reels 17:00 MYT.
 - Link: https://linktr.ee/bwgt.my (MUSE applications via DM + link)
+- Profile CTA (decided 2026-11-10): MUSE recruitment. Bio line 4:
+  "Want to be our next MUSE? Apply here ↓". The DM "FIX" keyword CTA is
+  dropped; do not reuse it in bio, captions or reels.
