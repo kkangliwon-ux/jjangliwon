@@ -1,0 +1,196 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Noto+Serif+KR:wght@400;600;900&family=Noto+Sans+KR:wght@300;400;700&family=Cormorant+Garamond:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#222;display:flex;flex-direction:column;gap:40px;padding:40px;align-items:center}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;color:#e8e6e1;font-family:'Noto Sans KR',sans-serif;
+ background:radial-gradient(ellipse at 50% 30%,#1c1c1e 0%,#0a0a0b 70%);padding:96px 88px}
+.s::before{content:"";position:absolute;inset:36px;border:1.5px solid rgba(200,200,205,.22);pointer-events:none}
+.s::after{content:"";position:absolute;inset:48px;border:1px solid rgba(200,200,205,.10);pointer-events:none}
+.silver{background:linear-gradient(180deg,#ffffff 0%,#c9c9ce 35%,#7d7d84 55%,#e4e4e8 75%,#9a9aa0 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.goth{font-family:'UnifrakturMaguntia',serif;font-weight:400}
+.serif{font-family:'Noto Serif KR',serif}
+.num{position:absolute;top:84px;right:96px;font-family:'Cormorant Garamond',serif;font-size:30px;letter-spacing:.2em;color:#8d8d93}
+.tag{position:absolute;top:84px;left:96px;font-size:22px;letter-spacing:.35em;color:#8d8d93;font-weight:300}
+.foot{position:absolute;bottom:84px;left:96px;right:96px;display:flex;justify-content:space-between;font-size:22px;color:#77777d;letter-spacing:.2em;font-weight:300}
+.kicker{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:44px;color:#a9a9af;margin-bottom:24px}
+h2{font-family:'Noto Serif KR',serif;font-weight:900;font-size:84px;line-height:1.18;letter-spacing:-.02em}
+p{font-size:36px;line-height:1.7;color:#c7c5c0;font-weight:300}
+p b{color:#fff;font-weight:700}
+.rule{width:120px;height:2px;background:linear-gradient(90deg,#d9d9de,transparent);margin:44px 0}
+.center{display:flex;flex-direction:column;justify-content:center;height:100%}
+.orn{display:block;margin:0 auto}
+.list{list-style:none;margin-top:12px}
+.list li{font-size:34px;line-height:1.5;padding:22px 0;border-bottom:1px solid rgba(255,255,255,.09);display:flex;gap:28px;color:#d6d4cf;font-weight:300}
+.list li span{font-family:'Cormorant Garamond',serif;color:#8d8d93;font-size:34px;min-width:52px}
+.list li b{color:#fff;font-weight:700}
+.big{font-family:'Cormorant Garamond',serif;font-size:300px;line-height:.9;font-weight:500}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:20px}
+.card{border:1px solid rgba(220,220,225,.2);padding:32px 34px;background:rgba(255,255,255,.02)}
+.card .k{font-family:"Noto Serif KR",serif;font-weight:900;font-size:42px;margin:16px 0 8px}
+.card .d{font-size:28px;line-height:1.55;color:#aaa8a3;font-weight:300}
+.pill{display:inline-block;border:1px solid rgba(220,220,225,.35);padding:10px 26px;border-radius:999px;font-size:26px;color:#cfcfd4;margin:0 12px 14px 0;font-weight:300}
+.prodhead{display:flex;align-items:center;gap:40px;margin-bottom:10px}
+</style></head><body>
+
+<!-- SVG defs -->
+<svg width="0" height="0" style="position:absolute">
+ <defs>
+  <linearGradient id="sv" x1="0" y1="0" x2="0" y2="1">
+   <stop offset="0" stop-color="#ffffff"/><stop offset=".4" stop-color="#bdbdc3"/><stop offset=".6" stop-color="#6f6f76"/><stop offset="1" stop-color="#d8d8dd"/>
+  </linearGradient>
+  <!-- generic gothic cross (original drawing) -->
+  <symbol id="cross" viewBox="0 0 100 140">
+   <path fill="url(#sv)" d="M42 0h16v8c6 2 10 7 10 14s-4 10-10 12v10h12c2-6 6-10 13-10s7 4 7 8v12c0 4 0 8-7 8s-11-4-13-10H58v70c6 2 9 6 9 9H33c0-3 3-7 9-9V60H30c-2 6-6 10-13 10S10 66 10 62V50c0-4 0-8 7-8s11 4 13 10h12V34c-6-2-10-5-10-12s4-12 10-14z"/>
+  </symbol>
+  <symbol id="dagger" viewBox="0 0 40 140">
+   <path fill="url(#sv)" d="M20 0l7 6v14h-14V6zM4 22h32v6H24v8h-8v-8H4zM16 38h8l2 6-6 96-6-96z"/>
+  </symbol>
+  <symbol id="fleur" viewBox="0 0 100 110">
+   <path fill="url(#sv)" d="M50 0c12 14 14 30 4 50h-8C36 30 38 14 50 0zM46 52C30 30 8 34 6 50c-2 12 10 18 18 12-6-2-8-8-4-12 6-6 18 0 22 12zM54 52c16-22 38-18 40-2 2 12-10 18-18 12 6-2 8-8 4-12-6-6-18 0-22 12zM26 58h48v8H26zM44 66h12l8 40H36z"/>
+  </symbol>
+ </defs>
+</svg>
+
+<!-- 1 COVER -->
+<section class="s" id="s1">
+ <div class="tag">BRAND STORY</div><div class="num">01 / 09</div>
+ <div class="center" style="text-align:center;align-items:center">
+  <svg class="orn" width="150" height="210"><use href="#cross"/></svg>
+  <div class="goth silver" style="font-size:150px;line-height:1.05;margin-top:40px">Chrome<br>Hearts</div>
+  <div class="rule" style="margin:48px auto"></div>
+  <h2 style="font-size:64px;line-height:1.35">LA 바이커의 차고에서<br>시작된 <span class="silver">실버 제국</span></h2>
+  <p style="margin-top:36px;font-size:32px;color:#9a9893">브랜드 스토리 & 꼭 알아야 할 대표 제품</p>
+ </div>
+ <div class="foot"><span>SINCE 1988</span><span>SWIPE →</span></div>
+</section>
+
+<!-- 2 ORIGIN -->
+<section class="s" id="s2">
+ <div class="tag">01 · ORIGIN</div><div class="num">02 / 09</div>
+ <div class="center">
+  <div class="big silver">1988</div>
+  <div class="kicker" style="margin-top:20px">Los Angeles, California</div>
+  <h2>“내가 입을 옷이<br>없어서 만들었다”</h2>
+  <div class="rule"></div>
+  <p>창립자 <b>리처드 스타크(Richard Stark)</b>는 바이크를 타며 입을 <b>튼튼한 가죽 라이딩 기어</b>를 직접 만들기 시작했어요.</p>
+  <p style="margin-top:24px">가죽 옷에 달 <b>버클·스냅·장식</b>까지 실버로 직접 깎아 만든 것 — 그게 지금의 크롬하츠 실버의 시작입니다.</p>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>→</span></div>
+</section>
+
+<!-- 3 PHILOSOPHY -->
+<section class="s" id="s3">
+ <div class="tag">02 · PHILOSOPHY</div><div class="num">03 / 09</div>
+ <div class="center">
+  <div class="kicker">The Rules</div>
+  <h2>트렌드보다<br><span class="silver">고집</span></h2>
+  <div class="rule"></div>
+  <ul class="list">
+   <li><span>I</span><div><b>LA 자체 공방 핸드메이드</b><br>장인이 직접 깎고 다듬는 제작 방식</div></li>
+   <li><span>II</span><div><b>.925 스털링 실버</b><br>도금이 아닌 원재료 그대로의 무게감</div></li>
+   <li><span>III</span><div><b>광고 거의 없음</b><br>입소문과 셀럽들이 알아서 찾아온 브랜드</div></li>
+   <li><span>IV</span><div><b>제한된 유통</b><br>직영 매장 중심 — 그래서 더 귀하다</div></li>
+  </ul>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>→</span></div>
+</section>
+
+<!-- 4 MOTIFS -->
+<section class="s" id="s4">
+ <div class="tag">03 · SIGNATURE</div><div class="num">04 / 09</div>
+ <div class="kicker" style="margin-top:50px">Gothic Code</div>
+ <h2>보면 바로 아는<br>시그니처 모티프</h2>
+ <div class="grid" style="margin-top:44px">
+  <div class="card"><svg width="70" height="98"><use href="#cross"/></svg><div class="k">크로스</div><div class="d">브랜드의 상징. 펜던트·패치·링 어디에나</div></div>
+  <div class="card"><svg width="28" height="98"><use href="#dagger"/></svg><div class="k">대거</div><div class="d">단검 모티프. 펜던트와 링의 스테디셀러</div></div>
+  <div class="card"><svg width="88" height="98"><use href="#fleur"/></svg><div class="k">플레르 드 리스</div><div class="d">백합 문장. 고딕 무드의 핵심 장식</div></div>
+  <div class="card"><div class="goth silver" style="font-size:84px;line-height:98px;height:98px">CH</div><div class="k">고딕 레터링</div><div class="d">올드 잉글리시 서체 + 말발굽 로고</div></div>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>→</span></div>
+</section>
+
+<!-- 5 JEWELRY -->
+<section class="s" id="s5">
+ <div class="tag">PRODUCT 01</div><div class="num">05 / 09</div>
+ <div class="center">
+  <div class="prodhead"><svg width="90" height="126"><use href="#cross"/></svg><div><div class="kicker" style="margin:0">Silver Jewelry</div><h2>실버 주얼리</h2></div></div>
+  <div class="rule"></div>
+  <p>브랜드의 심장이자 <b>입문 1순위</b>. 묵직한 무게감과 시간이 지날수록 생기는 <b>자연스러운 산화(에이징)</b>가 매력이에요.</p>
+  <div style="margin-top:48px">
+   <span class="pill">크로스 펜던트</span><span class="pill">대거 펜던트</span><span class="pill">스페이서 링</span><span class="pill">포에버 링</span><span class="pill">페이퍼 체인</span><span class="pill">팔찌 · 이어링</span>
+  </div>
+  <p style="margin-top:40px;font-size:30px;color:#8f8d88">TIP · 첫 구매라면 심플한 링이나 작은 펜던트부터!</p>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>→</span></div>
+</section>
+
+<!-- 6 LEATHER -->
+<section class="s" id="s6">
+ <div class="tag">PRODUCT 02</div><div class="num">06 / 09</div>
+ <div class="center">
+  <div class="kicker">Leather Goods</div>
+  <h2>레더 웨어</h2>
+  <div class="rule"></div>
+  <p>모든 것의 <b>출발점</b>. 바이커 DNA가 가장 진하게 남아 있는 라인이에요.</p>
+  <ul class="list" style="margin-top:36px">
+   <li><span>—</span><div><b>가죽 재킷</b> · 실버 버튼과 지퍼 풀러까지 디테일 집약</div></li>
+   <li><span>—</span><div><b>크로스 패치 레더 팬츠</b> · 크롬하츠의 아이코닉 실루엣</div></li>
+   <li><span>—</span><div><b>지갑 · 벨트 · 백</b> · 실버 하드웨어가 포인트</div></li>
+  </ul>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>→</span></div>
+</section>
+
+<!-- 7 EYEWEAR -->
+<section class="s" id="s7">
+ <div class="tag">PRODUCT 03</div><div class="num">07 / 09</div>
+ <div class="center">
+  <svg width="420" height="130" viewBox="0 0 420 130" style="margin-bottom:40px">
+   <g fill="none" stroke="url(#sv)" stroke-width="7">
+    <rect x="10" y="20" width="170" height="100" rx="40"/><rect x="240" y="20" width="170" height="100" rx="40"/>
+    <path d="M180 50c15-14 45-14 60 0"/>
+   </g>
+   <g transform="translate(200,6) scale(.14)"><use href="#cross" width="100" height="140"/></g>
+  </svg>
+  <div class="kicker">Eyewear</div>
+  <h2>아이웨어</h2>
+  <div class="rule"></div>
+  <p>정교한 프레임 위에 <b>실버 크로스·고딕 디테일</b>을 얹은 라인. 주얼리 같은 안경으로 불리며 <b>셀럽 공항패션 단골</b> 아이템이에요.</p>
+  <p style="margin-top:24px">선글라스와 안경테 모두 있어 데일리로 <b>크롬하츠를 가장 티 나게</b> 즐기는 방법.</p>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>→</span></div>
+</section>
+
+<!-- 8 APPAREL -->
+<section class="s" id="s8">
+ <div class="tag">PRODUCT 04</div><div class="num">08 / 09</div>
+ <div class="center">
+  <div class="kicker">Apparel & Accessories</div>
+  <h2>어패럴 &<br>라이프스타일</h2>
+  <div class="rule"></div>
+  <p><b>말발굽(호스슈) 로고</b>와 고딕 레터링이 들어간 티셔츠·후디는 스트릿 씬의 상징이 됐어요.</p>
+  <div style="margin-top:44px">
+   <span class="pill">호스슈 로고 티</span><span class="pill">후디 · 집업</span><span class="pill">트러커 캡</span><span class="pill">데님</span><span class="pill">가구 · 홈 오브제</span>
+  </div>
+  <p style="margin-top:36px;font-size:30px;color:#8f8d88">가구부터 소품까지 — “크롬하츠로 만든 세계”를 지향합니다.</p>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>→</span></div>
+</section>
+
+<!-- 9 SUMMARY -->
+<section class="s" id="s9">
+ <div class="tag">SUMMARY</div><div class="num">09 / 09</div>
+ <div class="center" style="text-align:center;align-items:center">
+  <svg class="orn" width="60" height="210"><use href="#dagger"/></svg>
+  <h2 style="margin-top:44px;font-size:72px">유행을 좇지 않고<br><span class="silver">자기 세계를 만든</span> 브랜드</h2>
+  <div class="rule" style="margin:48px auto"></div>
+  <p style="font-size:34px">바이커 가죽 기어 → 실버 주얼리 → 아이웨어 → 라이프스타일<br>30년 넘게 지켜온 건 결국 <b>핸드메이드와 고집</b>.</p>
+  <div style="margin-top:72px;border:1px solid rgba(220,220,225,.35);padding:28px 48px;font-size:32px;color:#e8e6e1">
+   🔖 저장해두고 매장 갈 때 꺼내보세요
+  </div>
+  <p style="margin-top:28px;font-size:28px;color:#8f8d88">여러분의 최애 크롬하츠 아이템은? 댓글로 알려주세요</p>
+ </div>
+ <div class="foot"><span>CHROME HEARTS</span><span>FOLLOW FOR MORE</span></div>
+</section>
+</body></html>
