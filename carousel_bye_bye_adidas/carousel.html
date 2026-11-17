@@ -13,7 +13,8 @@ body{background:#555;font-family:"Helvetica Neue",Helvetica,Arial,Inter,sans-ser
 .ph .note i{display:block;font-style:normal;font-size:15px;letter-spacing:2px;color:rgba(255,255,255,.4)}
 .ph.filled .note{display:none}
 .shade{position:absolute;left:0;right:0;bottom:0;height:62%;background:linear-gradient(to bottom,rgba(0,0,0,0),rgba(0,0,0,.55) 40%,rgba(0,0,0,.88));pointer-events:none}
-.num{position:absolute;top:38px;right:56px;font-size:32px;z-index:5}
+.num{position:absolute;top:38px;right:56px;font-size:32px;z-index:5;text-shadow:0 1px 8px rgba(0,0,0,.55)}
+.card::before{content:"";position:absolute;left:0;right:0;top:0;height:180px;background:linear-gradient(rgba(0,0,0,.28),rgba(0,0,0,0));z-index:3;pointer-events:none}
 .text{position:absolute;left:68px;right:68px;bottom:150px;z-index:5}
 h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px;margin-bottom:18px}
 .lab{color:var(--lime);font-size:34px;line-height:1.1;text-transform:uppercase}
@@ -36,7 +37,7 @@ h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px
 </section>
 <section class="card">
   <div class="ph" style="left:0;top:0;width:360px;height:1350px;--img:url(photos/02_jersey.jpg)"><p class="note"><i>02_jersey.jpg</i>1990 서독 홈 정면. 가슴 삼색 그래픽 전체가 보이게</p></div>
-  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/02_look.jpg)"><p class="note"><i>02_look.jpg</i>전신(신발까지): 중청 스트레이트 진, 앞단만 턱인, 빨간 발레 플랫</p></div>
+  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/02_look.png)"><p class="note"><i>02_look.png</i>전신(신발까지): 중청 스트레이트 진, 앞단만 턱인, 빨간 발레 플랫</p></div>
   <div class="shade"></div>
   <span class="num">02</span>
   <div class="text"><p class="lab"><span style="text-transform:none">OOTDKi</span> No.1 · 1990 West Germany Home</p><h1 style="margin-top:10px">Our all-time<br>favourite.</h1><p class="body">Blue jeans. Red ballet flats.<br>That zigzag does the rest.</p></div>
@@ -44,7 +45,7 @@ h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px
 </section>
 <section class="card">
   <div class="ph" style="left:0;top:0;width:360px;height:1350px;--img:url(photos/03_jersey.jpg)"><p class="note"><i>03_jersey.jpg</i>1994 독일 홈 정면. 양쪽 어깨 다이아몬드 패턴이 모두 보이게</p></div>
-  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/03_look.jpg)"><p class="note"><i>03_look.jpg</i>정면에 가까운 전신: 루즈하게, 블랙 데님 미니, 흰 양말, 검정 로퍼</p></div>
+  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/03_look.png)"><p class="note"><i>03_look.png</i>정면에 가까운 전신: 루즈하게, 블랙 데님 미니, 흰 양말, 검정 로퍼</p></div>
   <div class="shade"></div>
   <span class="num">03</span>
   <div class="text"><p class="lab">1994 Germany Home</p><h1 style="margin-top:10px">Let the shoulders<br>do the talking.</h1><p class="body">Wear it loose over a black denim mini.</p></div>
@@ -52,7 +53,7 @@ h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px
 </section>
 <section class="card">
   <div class="ph" style="left:0;top:0;width:360px;height:1350px;--img:url(photos/04_jersey.jpg)"><p class="note"><i>04_jersey.jpg</i>2022 독일 홈 정면. 가슴 중앙 검정 세로 띠가 온전히 보이게</p></div>
-  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/04_look.jpg)"><p class="note"><i>04_look.jpg</i>전신: 전부 턱인, 블랙 와이드 슬랙스, 얇은 검정 샌들 (띠가 팬츠로 이어지게)</p></div>
+  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/04_look.png)"><p class="note"><i>04_look.png</i>전신: 전부 턱인, 블랙 와이드 슬랙스, 얇은 검정 샌들 (띠가 팬츠로 이어지게)</p></div>
   <div class="shade"></div>
   <span class="num">04</span>
   <div class="text"><p class="lab">2022 Germany Home</p><h1 style="margin-top:10px">Follow the<br>black stripe.</h1><p class="body">Tuck it into black wide-leg trousers.</p></div>
@@ -62,7 +63,7 @@ h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px
   <div class="ph" style="left:0;top:0;width:360px;height:540px;--img:url(photos/05_pattern_94.jpg)"><p class="note"><i>05_pattern_94.jpg</i>94 홈 패턴 크롭 (아래 26 홈과 같은 배율)</p></div>
   <div class="ph" style="left:0;top:540px;width:360px;height:810px;--img:url(photos/05_pattern_26.jpg)"><p class="note" style="top:70px"><i>05_pattern_26.jpg</i>26 홈 패턴 크롭 (칸 위쪽 540px 안에 패턴, 94와 같은 배율)</p></div>
   <span class="pair" style="top:500px">’94</span><span class="pair" style="top:560px">’26</span>
-  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/05_look.jpg)"><p class="note"><i>05_look.jpg</i>모디스트 전신: 여유 있는 26 홈, 아이보리 손목 길이 이너, 스톤 맥시스커트(불투명), 가슴 덮는 오트 히잡</p></div>
+  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/05_look.png)"><p class="note"><i>05_look.png</i>모디스트 전신: 여유 있는 26 홈, 아이보리 손목 길이 이너, 스톤 맥시스커트(불투명), 가슴 덮는 오트 히잡</p></div>
   <div class="shade"></div>
   <span class="num">05</span>
   <div class="text"><p class="lab">2026 Germany Home</p><h1 style="margin-top:10px">Spot the<br>’94 throwback.</h1><p class="body">Try the new zigzag with a stone maxi skirt.</p></div>
@@ -70,7 +71,7 @@ h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px
 </section>
 <section class="card">
   <div class="ph" style="left:0;top:0;width:360px;height:1350px;--img:url(photos/06_jersey.jpg)"><p class="note"><i>06_jersey.jpg</i>26 써드 상반신 디테일: 흰 트레포일 + 옛 DFB 문장 함께</p></div>
-  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/06_look.jpg)"><p class="note"><i>06_look.jpg</i>전신: 블랙 새틴 미디스커트, 작은 골드 후프, 슬링백</p></div>
+  <div class="ph" style="left:360px;top:0;width:720px;height:1350px;--img:url(photos/06_look.png)"><p class="note"><i>06_look.png</i>전신: 블랙 새틴 미디스커트, 작은 골드 후프, 슬링백</p></div>
   <div class="shade"></div>
   <span class="num">06</span>
   <div class="text"><p class="lab">2026 Germany Farewell Third</p><h1 style="margin-top:10px">The last one deserves<br>a night out.</h1><p class="body">Black satin skirt. Gold hoops.<br>See you at dinner.</p></div>
@@ -80,7 +81,7 @@ h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px
 <section class="card">
   <span class="num">07</span>
   <div class="text" style="top:120px;bottom:auto"><h1 style="font-size:84px">Which one gets<br>hanger space?</h1></div>
-  <div class="ph" style="left:0;top:340px;width:1080px;height:720px;--img:url(photos/07_wardrobe.jpg)"><p class="note"><i>07_wardrobe.jpg</i>검정 배경 옷장: 실제 저지 5벌을 왼쪽부터 90H·94H·22H·26H·26 써드 순서로 같은 간격(216px)에 걸기</p></div>
+  <div class="ph" style="left:0;top:340px;width:1080px;height:720px;--img:url(photos/07_wardrobe.png)"><p class="note"><i>07_wardrobe.png</i>검정 배경 옷장: 실제 저지 5벌을 왼쪽부터 90H·94H·22H·26H·26 써드 순서로 같은 간격(216px)에 걸기</p></div>
   <div style="position:absolute;left:0;right:0;top:1080px;display:grid;grid-template-columns:repeat(5,216px);text-align:center"><p class="lab" style="font-size:28px">90<br><span style="color:#fff">Home</span></p><p class="lab" style="font-size:28px">94<br><span style="color:#fff">Home</span></p><p class="lab" style="font-size:28px">22<br><span style="color:#fff">Home</span></p><p class="lab" style="font-size:28px">26<br><span style="color:#fff">Home</span></p><p class="lab" style="font-size:28px">26<br><span style="color:#fff">Third</span></p></div>
   <div class="foot"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</div>
 </section>
