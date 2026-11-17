@@ -2,131 +2,123 @@
 <html lang="en"><head><meta charset="utf-8">
 <title>OOTDKi Bye Bye Adidas</title>
 <style>
-:root{--paper:#F3F0E8;--ink:#0E0E0E;--crown:#1E9B4F;--slot:#D9D5CB;--slot-ink:#6B675E;--muted:#8A857A}
+/* OOTDKi format: full-bleed photo, no canvas/margins/frames. Text sits on the photo over a bottom shade. */
+:root{--lime:#7CDE04}
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#777;font-family:"Helvetica Neue",Helvetica,Inter,Arial,sans-serif;font-weight:700}
-.card{width:1080px;height:1350px;position:relative;overflow:hidden;background:var(--paper);color:var(--ink);margin:0 auto 40px}
-.card.dark{background:#0B0B0B;color:#fff}
-/* OOTDKi chrome */
-.top{position:absolute;top:44px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center;font-size:30px;letter-spacing:.5px;z-index:5}
-.handle{display:flex;align-items:center;gap:14px}
-.crown{width:46px;height:34px;flex:none}
-.page{font-variant-numeric:tabular-nums;opacity:.85}
-/* photo slots */
-.slot{position:absolute;background:var(--slot);color:var(--slot-ink);display:flex;flex-direction:column;justify-content:flex-end;padding:22px 24px;font-family:Inter,"WenQuanYi Zen Hei",sans-serif;font-weight:500;font-size:21px;line-height:1.4;border:2px dashed #b9b4a8}
-.dark .slot{background:#232323;color:#9a9a9a;border-color:#3a3a3a}
-.slot b{display:block;font-weight:700;font-size:15px;letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;color:var(--ink);opacity:.55}
-.dark .slot b{color:#fff}
-/* copy */
-.copy{position:absolute;left:60px;right:60px;bottom:70px;z-index:4}
-.kicker{font-size:26px;letter-spacing:3px;text-transform:uppercase;color:var(--muted);margin-bottom:18px}
-.dark .kicker{color:#9a9a9a}
-h1{font-size:112px;line-height:.92;letter-spacing:-3px;text-transform:uppercase}
-h2{font-size:84px;line-height:.95;letter-spacing:-2px;text-transform:uppercase}
-.sub{font-size:36px;line-height:1.25;margin-top:22px;letter-spacing:-.3px;max-width:960px}
-.rank{display:inline-block;background:var(--crown);color:#fff;font-size:24px;letter-spacing:2px;padding:8px 16px;margin-bottom:18px}
-/* split layout (3-6) */
-.split .L{left:60px;top:120px;width:470px;height:800px}
-.split .R{left:550px;top:120px;width:470px;height:800px}
-.split .copy{bottom:64px}
-.tag{position:absolute;top:136px;z-index:4;font-size:20px;letter-spacing:2px;background:var(--ink);color:#fff;padding:6px 12px}
-.tag.l{left:76px}.tag.r{left:566px}
-/* grid (7) */
-.grid{position:absolute;left:60px;right:60px;top:420px;display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
-.grid .slot{position:relative;height:440px}
-.grid .name{font-size:26px;letter-spacing:.5px;margin-top:16px;line-height:1.1}
-.footer{position:absolute;left:0;right:0;bottom:84px;display:flex;justify-content:center;align-items:center;gap:18px;font-size:36px}
-.footer .crown{width:64px;height:48px}
+body{background:#555;font-family:"Helvetica Neue",Helvetica,Arial,Inter,sans-serif;font-weight:700}
+.card{width:1080px;height:1350px;position:relative;overflow:hidden;background:#000;color:#fff;margin:0 auto 40px}
+/* photo slot: drop a file at photos/<name>.jpg — it fills the slot (cover). Until then a dark stand-in shows. */
+.ph{position:absolute;background:var(--img) center/cover no-repeat,linear-gradient(160deg,#4a4a4a,#1c1c1c)}
+.ph .note{position:absolute;top:110px;left:28px;right:28px;font:500 19px/1.4 Inter,"WenQuanYi Zen Hei",sans-serif;color:rgba(255,255,255,.55)}
+.ph .note i{display:block;font-style:normal;font-size:15px;letter-spacing:2px;color:rgba(255,255,255,.4)}
+.ph.filled .note{display:none}
+.shade{position:absolute;left:0;right:0;bottom:0;height:62%;background:linear-gradient(to bottom,rgba(0,0,0,0),rgba(0,0,0,.55) 40%,rgba(0,0,0,.88));pointer-events:none}
+.num{position:absolute;top:38px;right:56px;font-size:32px;z-index:5}
+.text{position:absolute;left:68px;right:68px;bottom:150px;z-index:5}
+h1{font-size:76px;line-height:1.02;text-transform:uppercase;letter-spacing:-.5px;margin-bottom:18px}
+.lab{color:var(--lime);font-size:34px;line-height:1.1;text-transform:uppercase}
+.body{font-size:30px;line-height:1.2;margin-bottom:12px}
+.g{color:var(--lime)}
+.foot{position:absolute;left:60px;bottom:62px;display:flex;align-items:center;gap:18px;font-size:34px;z-index:5}
+.crown{width:56px;height:40px}
 </style></head><body>
-
-<!-- crown symbol -->
-<svg width="0" height="0" style="position:absolute"><defs>
-<symbol id="crown" viewBox="0 0 46 34"><path fill="#1E9B4F" d="M2 8l10 9 11-15 11 15 10-9-4 22H6z"/><rect x="6" y="30" width="34" height="4" fill="#1E9B4F"/></symbol>
-</defs></svg>
+<svg width="0" height="0" style="position:absolute"><defs><symbol id="crown" viewBox="0 0 56 40"><path fill="#7CDE04" d="M0 9l15 14L28 0l13 23 15-14-6 31H6z"/></symbol></defs></svg>
 
 <!-- 01 COVER -->
-<section class="card dark" id="c1">
-  <div class="top"><span class="handle"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</span><span class="page">01/07</span></div>
-  <div class="slot" style="left:0;top:0;width:1080px;height:1350px;justify-content:flex-start;padding-top:130px;padding-left:60px"><b>Main photo · full bleed</b>베를린 마지막 경기(11/16 vs NED) 선수 착용 컷<br>Farewell 서드 킷 가슴(옛 DFB 문장·트레포일) 보이게 크롭</div>
-  <div class="slot" style="left:640px;top:340px;width:380px;height:475px;background:#efece4;border:8px solid #fff;color:#6B675E;box-shadow:0 20px 50px rgba(0,0,0,.45)"><b style="color:#0E0E0E">Inset · 1990 HOME</b>1990 서독 홈 저지 실물 정면<br>가슴 검정·빨강·금 그래픽 보이게</div>
-  <div style="position:absolute;inset:auto 0 0 0;height:620px;background:linear-gradient(transparent,rgba(0,0,0,.85));z-index:3"></div>
-  <div class="copy">
-    <h1>Bye bye,<br>adidas.</h1>
-    <p class="sub">Germany’s final kit is here.<br>We’d still pick 1990.</p>
+<section class="card">
+  <div class="ph" style="inset:0;--img:url(photos/01_berlin_main.jpg)"><p class="note"><i>01_berlin_main.jpg · full bleed</i>베를린 마지막 경기 선수 착용 컷, Farewell 가슴 디자인 보이게</p></div>
+  <div class="ph" style="right:0;top:150px;width:400px;height:500px;--img:url(photos/01_1990_home_inset.jpg)"><p class="note" style="top:24px"><i>01_1990_home_inset.jpg</i>1990 HOME 실물, 가슴 그래픽 보이게</p></div>
+  <div class="shade"></div>
+  <span class="num">01</span>
+  <div class="text">
+    <h1>Bye bye, adidas.</h1>
+    <p class="body">Germany’s final kit is here.<br>We’d still pick <span class="g">1990.</span></p>
   </div>
+  <div class="foot"><svg class="crown"><use href="#crown"/></svg>OOTDKi EDIT</div>
 </section>
 
 <!-- 02 LAST MATCH -->
-<section class="card" id="c2">
-  <div class="top"><span class="handle"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</span><span class="page">02/07</span></div>
-  <div class="slot" style="left:60px;top:120px;width:960px;height:640px"><b>Match photo</b>11월 16일 베를린 올림피아슈타디온, 독일 5–0 네덜란드 경기 사진 1장</div>
-  <div class="slot" style="left:60px;top:780px;width:470px;height:230px"><b>Detail · 확대</b>옛 DFB 문장(1978–96)</div>
-  <div class="slot" style="left:550px;top:780px;width:470px;height:230px"><b>Detail · 확대</b>트레포일</div>
-  <div class="copy" style="bottom:64px">
-    <h2 style="font-size:72px">One last night<br>in Berlin.</h2>
-    <p class="sub" style="font-size:28px;margin-top:16px">Germany beat the Netherlands 5–0 in their final men’s match wearing adidas. Nike takes over in January 2027.</p>
+<section class="card">
+  <div class="ph" style="left:0;top:0;width:1080px;height:640px;--img:url(photos/02_match.jpg)"><p class="note"><i>02_match.jpg</i>11월 16일 베를린 경기 사진 1장</p></div>
+  <div class="ph" style="left:0;top:640px;width:540px;height:710px;--img:url(photos/02_dfb_crest.jpg)"><p class="note" style="top:24px"><i>02_dfb_crest.jpg</i>옛 DFB 문장 확대 (칸 위쪽 1/2에 오도록)</p></div>
+  <div class="ph" style="left:540px;top:640px;width:540px;height:710px;--img:url(photos/02_trefoil.jpg)"><p class="note" style="top:24px"><i>02_trefoil.jpg</i>트레포일 확대 (칸 위쪽 1/2에 오도록)</p></div>
+  <div class="shade" style="height:48%"></div>
+  <span class="num">02</span>
+  <div class="text">
+    <h1>One last night<br>in Berlin.</h1>
+    <p class="body">Germany beat the Netherlands 5–0 in their final men’s match wearing adidas. Nike takes over in January 2027.</p>
   </div>
+  <div class="foot"><svg class="crown"><use href="#crown"/></svg>OOTDKi EDIT</div>
 </section>
 
-<!-- 03 1990 HOME -->
-<section class="card split" id="c3">
-  <div class="top"><span class="handle"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</span><span class="page">03/07</span></div>
-  <span class="tag l">1990 WEST GERMANY HOME</span>
-  <div class="slot L"><b>Jersey · front</b>1990 서독 홈 저지 실물 정면</div>
-  <div class="slot R"><b>KL full look · 신발까지</b>중청 스트레이트 데님, 앞단만 살짝 턱인, 빨간 플랫</div>
-  <div class="copy">
-    <span class="rank">OOTDKi ALL-TIME No.1</span>
-    <h2>The one<br>we’d keep.</h2>
-    <p class="sub">Blue jeans. Red flats. Let the chest graphic do the rest.</p>
+<!-- 03–06: left = jersey front, right = KL full look. Two photos flush, no gutter. -->
+<section class="card">
+  <div class="ph" style="left:0;top:0;width:540px;height:1350px;--img:url(photos/03_jersey.jpg)"><p class="note"><i>03_jersey.jpg</i>1990 서독 홈 저지 정면</p></div>
+  <div class="ph" style="left:540px;top:0;width:540px;height:1350px;--img:url(photos/03_look.jpg)"><p class="note"><i>03_look.jpg</i>KL 전신(신발까지): 중청 스트레이트 데님, 앞단 턱인, 빨간 플랫</p></div>
+  <div class="shade"></div>
+  <span class="num">03</span>
+  <div class="text">
+    <p class="lab"><span style="text-transform:none">OOTDKi</span> NO.1 · 1990 West Germany Home</p>
+    <h1 style="margin-top:10px">The one we’d keep.</h1>
+    <p class="body">Blue jeans. Red flats.<br>Let the chest graphic do the rest.</p>
   </div>
+  <div class="foot"><svg class="crown"><use href="#crown"/></svg>OOTDKi EDIT</div>
 </section>
 
-<!-- 04 1990 AWAY -->
-<section class="card split" id="c4">
-  <div class="top"><span class="handle"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</span><span class="page">04/07</span></div>
-  <span class="tag l">1990 WEST GERMANY AWAY</span>
-  <div class="slot L"><b>Jersey · front</b>1990 서독 그린 원정 저지 실물 정면</div>
-  <div class="slot R"><b>KL full look · 신발까지</b>아이보리 긴팔 이너, 크림 롱스커트(불투명), 가슴 덮는 오트 히잡. 저지 밑단은 내려서 초록 패턴 넓게</div>
-  <div class="copy">
-    <h2>Same year.<br>I’d take the green.</h2>
-    <p class="sub">Wear it loose over a cream column skirt.</p>
+<section class="card">
+  <div class="ph" style="left:0;top:0;width:540px;height:1350px;--img:url(photos/04_jersey.jpg)"><p class="note"><i>04_jersey.jpg</i>1990 서독 그린 원정 저지 정면</p></div>
+  <div class="ph" style="left:540px;top:0;width:540px;height:1350px;--img:url(photos/04_look.jpg)"><p class="note"><i>04_look.jpg</i>KL 전신: 아이보리 긴팔 이너, 크림 롱스커트, 오트 히잡, 밑단 내려 입기</p></div>
+  <div class="shade"></div>
+  <span class="num">04</span>
+  <div class="text">
+    <p class="lab">1990 West Germany Away</p>
+    <h1 style="margin-top:10px">Same year.<br>I’d take the green.</h1>
+    <p class="body">Wear it loose over a cream column skirt.</p>
   </div>
+  <div class="foot"><svg class="crown"><use href="#crown"/></svg>OOTDKi EDIT</div>
 </section>
 
-<!-- 05 2024 AWAY -->
-<section class="card split" id="c5">
-  <div class="top"><span class="handle"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</span><span class="page">05/07</span></div>
-  <span class="tag l">2024 GERMANY AWAY</span>
-  <div class="slot L"><b>Jersey · front</b>2024 독일 원정 저지 실물 정면(핑크→보라 그라데이션)</div>
-  <div class="slot R"><b>KL full look · 신발까지</b>밑단 빼 입기, 무릎 기장 워시드 블랙 데님 쇼츠, 얇은 실버 스니커즈</div>
-  <div class="copy">
-    <h2>Pink jersey.<br>Silver shoes.</h2>
-    <p class="sub">Add washed-black jorts and you’re ready for a weekend in KL.</p>
+<section class="card">
+  <div class="ph" style="left:0;top:0;width:540px;height:1350px;--img:url(photos/05_jersey.jpg)"><p class="note"><i>05_jersey.jpg</i>2024 독일 원정 저지 정면</p></div>
+  <div class="ph" style="left:540px;top:0;width:540px;height:1350px;--img:url(photos/05_look.jpg)"><p class="note"><i>05_look.jpg</i>KL 전신: 밑단 빼 입기, 워시드 블랙 무릎 쇼츠, 실버 스니커즈</p></div>
+  <div class="shade"></div>
+  <span class="num">05</span>
+  <div class="text">
+    <p class="lab">2024 Germany Away</p>
+    <h1 style="margin-top:10px">Pink jersey.<br>Silver shoes.</h1>
+    <p class="body">Add washed-black jorts and you’re ready for a weekend in KL.</p>
   </div>
+  <div class="foot"><svg class="crown"><use href="#crown"/></svg>OOTDKi EDIT</div>
 </section>
 
-<!-- 06 2026 FAREWELL -->
-<section class="card split" id="c6">
-  <div class="top"><span class="handle"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</span><span class="page">06/07</span></div>
-  <span class="tag l">2026 GERMANY FAREWELL THIRD</span>
-  <div class="slot L"><b>Jersey · chest detail (크게)</b>Farewell 서드 저지 정면. 옛 DFB 문장과 트레포일을 크게</div>
-  <div class="slot R"><b>KL full look · 신발까지</b>검정 플리츠 트라우저에 턱인, 얇은 로퍼</div>
-  <div class="copy">
-    <h2>The last one,<br>tucked in.</h2>
-    <p class="sub">Black pleated trousers, slim loafers and those two crests up front.</p>
+<section class="card">
+  <div class="ph" style="left:0;top:0;width:540px;height:1350px;--img:url(photos/06_jersey.jpg)"><p class="note"><i>06_jersey.jpg</i>Farewell 서드 가슴 디테일 크게: 옛 DFB 문장 + 트레포일</p></div>
+  <div class="ph" style="left:540px;top:0;width:540px;height:1350px;--img:url(photos/06_look.jpg)"><p class="note"><i>06_look.jpg</i>KL 전신: 검정 플리츠 트라우저에 턱인, 얇은 로퍼</p></div>
+  <div class="shade"></div>
+  <span class="num">06</span>
+  <div class="text">
+    <p class="lab">2026 Germany Farewell Third</p>
+    <h1 style="margin-top:10px">The last one,<br>tucked in.</h1>
+    <p class="body">Black pleated trousers, slim loafers<br>and those two crests up front.</p>
   </div>
+  <div class="foot"><svg class="crown"><use href="#crown"/></svg>OOTDKi EDIT</div>
 </section>
 
-<!-- 07 CTA -->
-<section class="card dark" id="c7">
-  <div class="top"><span class="handle"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</span><span class="page">07/07</span></div>
-  <div style="position:absolute;left:60px;right:60px;top:170px;text-align:center"><h1 style="font-size:120px">You can<br>keep one.</h1></div>
-  <div class="grid">
-    <div><div class="slot"><b>Jersey</b>1990 홈</div><p class="name">1990<br>WHITE</p></div>
-    <div><div class="slot"><b>Jersey</b>1990 원정</div><p class="name">1990<br>GREEN</p></div>
-    <div><div class="slot"><b>Jersey</b>2024 원정</div><p class="name">2024<br>PINK</p></div>
-    <div><div class="slot"><b>Jersey</b>2026 Farewell</div><p class="name">2026<br>FAREWELL</p></div>
+<!-- 07 CTA: black, four kits same size, names right under -->
+<section class="card">
+  <span class="num">07</span>
+  <div class="text" style="top:150px;bottom:auto"><h1 style="font-size:96px">You can<br>keep one.</h1></div>
+  <div style="position:absolute;left:0;right:0;top:470px;display:grid;grid-template-columns:repeat(4,270px)">
+    <div><div class="ph" style="position:relative;height:440px;--img:url(photos/07_1990_white.jpg)"><p class="note" style="top:16px"><i>07_1990_white</i></p></div><p class="lab" style="padding:18px 0 0 22px;font-size:30px">1990<br><span style="color:#fff">White</span></p></div>
+    <div><div class="ph" style="position:relative;height:440px;--img:url(photos/07_1990_green.jpg)"><p class="note" style="top:16px"><i>07_1990_green</i></p></div><p class="lab" style="padding:18px 0 0 22px;font-size:30px">1990<br><span style="color:#fff">Green</span></p></div>
+    <div><div class="ph" style="position:relative;height:440px;--img:url(photos/07_2024_pink.jpg)"><p class="note" style="top:16px"><i>07_2024_pink</i></p></div><p class="lab" style="padding:18px 0 0 22px;font-size:30px">2024<br><span style="color:#fff">Pink</span></p></div>
+    <div><div class="ph" style="position:relative;height:440px;--img:url(photos/07_2026_farewell.jpg)"><p class="note" style="top:16px"><i>07_2026_farewell</i></p></div><p class="lab" style="padding:18px 0 0 22px;font-size:30px">2026<br><span style="color:#fff">Farewell</span></p></div>
   </div>
-  <div class="footer"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</div>
+  <div class="foot"><svg class="crown"><use href="#crown"/></svg>@OOTDKi</div>
 </section>
+
+<script>
+// hide the placement note once the real photo loads
+document.querySelectorAll('.ph').forEach(el=>{const m=getComputedStyle(el).getPropertyValue('--img').match(/url\(["']?([^"')]+)/);if(!m)return;const i=new Image();i.onload=()=>el.classList.add('filled');i.src=m[1];});
+</script>
 </body></html>
