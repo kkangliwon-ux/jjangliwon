@@ -7,4 +7,5 @@ const b=await chromium.launch();const p=await b.newPage({viewport:{width:1080,he
 await p.goto('file://'+dir+'/_build.html',{waitUntil:'networkidle'});await p.evaluate(()=>document.fonts.ready);
 fs.mkdirSync(dir+'/out',{recursive:true});
 for(let i=1;i<=D.length;i++){await p.locator('#s'+i).screenshot({path:`${dir}/out/slide_${String(i).padStart(2,'0')}.png`});}
+await p.goto('file://'+dir+'/cta.html',{waitUntil:'networkidle'});await p.evaluate(()=>document.fonts.ready);await p.locator('#cta').screenshot({path:`${dir}/out/slide_${String(D.length+1).padStart(2,'0')}.png`});
 await b.close();console.log('photos found:',have.filter(Boolean).length,'/',D.length);})();
