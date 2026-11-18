@@ -10,6 +10,8 @@ body{background:#111}
 .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.28) 0%,rgba(0,0,0,0) 12%,rgba(0,0,0,0) 38%,rgba(0,0,0,.45) 58%,rgba(0,0,0,.82) 100%)}
 .n{position:absolute;top:38px;right:56px;font-size:32px;text-shadow:0 2px 8px rgba(0,0,0,.4)}
 .txt{position:absolute;left:68px;right:60px;bottom:163px}
+.kick{display:inline-flex;align-items:center;gap:14px;background:#7DE304;color:#000;font-size:30px;letter-spacing:.06em;padding:10px 20px 10px 16px;margin-bottom:22px;text-shadow:none}
+.kick span{width:16px;height:16px;border-radius:50%;background:#000;box-shadow:0 0 0 5px rgba(0,0,0,.25)}
 h1{font-size:76px;line-height:1;margin-bottom:30px;letter-spacing:-.005em}
 .l{color:#7DE304;font-size:34px;line-height:1.05;margin-top:21px}
 .b{font-size:30px;line-height:1.2;margin-top:2px}
@@ -24,7 +26,7 @@ document.getElementById('root').innerHTML=D.map((d,i)=>`
  ${HAVE[i]?`<img src="photos/${d.photo}">`:`<div class="ph"><div>PHOTO ${String(i+1).padStart(2,'0')}<br>${d.shot}<br><small>→ photos/${d.photo}</small></div></div>`}
  <div class="shade"></div>
  <div class="n">${String(i+1).padStart(2,'0')}</div>
- <div class="txt"><h1>${d.title}</h1>
+ <div class="txt">${d.kicker?`<div class="kick"><span></span>${d.kicker}</div>`:""}<h1>${d.title}</h1>
   ${d.rows.map(r=>`<div class="l">${r[0]}</div><div class="b">${r[1]}</div>`).join('')}
   <div class="end">${d.end}</div></div>
  <div class="logo"><svg width="58" height="40" viewBox="0 0 58 40"><path fill="#7DE304" d="M0 6l14 12L29 0l15 18L58 6l-5 34H5z"/></svg>OOTDKi EDIT</div>
