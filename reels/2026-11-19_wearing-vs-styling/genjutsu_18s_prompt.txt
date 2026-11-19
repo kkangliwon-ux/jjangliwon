@@ -1,0 +1,19 @@
+18-second vertical 9:16 split-screen fashion reel. Copy the exact motion, timing, camera framing and split-screen layout of the reference video, but replace the person in BOTH halves with the young East Asian woman from the reference images (long dark-brown wavy hair, middle part, small gold hoops) and dress her exactly as the reference images show. Keep the bright white apartment from the reference images. Reference images 1-9 are the outfit stages in order.
+
+LEFT HALF, whole video: she stands still in the plain pink tweed sleeveless bubble mini dress and dusty-pink suede Mary Jane kitten heels, hands clasped in front (image 1). At about 12.0s she turns her head toward the right half with an amused smile and keeps looking (image 9).
+
+RIGHT HALF, follow the reference motion with these outfit stages:
+0.0-0.3s: identical to the left half (image 1).
+0.3-1.4s: kicks off the pink heels and holds them (image 2).
+1.4-2.0s: tosses the heels out of frame to the right; they stay out of frame.
+2.0-2.7s: pulls the left shoulder of the bodice down and takes her left arm out, then her right arm, and folds the bodice down over the skirt at the waist, uncovering a smooth white strapless longline tube top (image 3).
+2.7-4.5s: spins the dress around and pulls it back up so it is worn backwards as a deep U-neck pinafore over the white tube top.
+4.5-6.0s: shakes out an ivory satin blouse, then wears it under the pinafore and straightens the collar (image 4).
+6.0-7.7s: shakes out the balloon sleeves with knife-pleated cuffs and ties an oversized satin bow above the ruffle jabot (image 5).
+7.7-9.4s: pulls on sheer white lace tights with a diamond and tiny bow pattern (image 6).
+9.4-11.3s: where the reference video shows knee-high boots, she instead picks the same pink Mary Jane heels back up, puts them on over the tights, then hands on hips (image 7).
+11.3-12.4s: picks up a small cream leather flap bag with a gold twist-lock by its top handle (image 8).
+12.4-13.7s: puts the bag on her right shoulder and stands with hands clasped (image 9).
+13.7-18.0s: both halves hold the final pose of image 9, only blinking and breathing.
+
+Object rules: the only pink tweed garment on the right is her one dress; the bodice stays attached at the waist seam and only folds; the inner top is always the white tube top, never a bralette; no boots ever appear; no extra or duplicated objects. Faces, hair and garments match the reference images; correct hands; no camera movement.
