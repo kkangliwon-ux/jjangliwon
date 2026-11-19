@@ -2,11 +2,12 @@
 
 B's object rules (strict):
 - B keeps the pinafore and blouse from the start image.
-- One pair of sheer white lace tights with a diamond lattice and small bows; it comes in bunched up from outside the right frame edge in B's hand. B's legs stay bare until she pulls the tights on.
+- The bow stays tied the whole time; B only tucks its tails.
+- One pair of sheer white lace tights with a diamond lattice and small bows, lying just outside the right frame edge. B reaches out with her own hand and pulls them in. No other person, hand or arm ever appears. B's legs stay bare until she pulls the tights on.
 
 B TIMELINE (B always faces the camera, brisk real-time pace):
 0.0-0.5s B tucks the long bow tails up so they end at mid-chest.
-0.5-1.0s B brings the bunched tights in from the right frame edge.
+0.5-1.0s B reaches to the right frame edge with her own hand and pulls the bunched tights in.
 1.0-2.4s B lifts one bare leg and pulls the tights up it to the thigh, then the other leg, and smooths them up under the skirt.
 2.4-3.0s B stands straight, feet together, arms relaxed at her sides, soft smile.
 CHECKPOINT 3.0s: exactly the end image.
