@@ -4,7 +4,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 길이 | 클립 8개 × 3초 = 24초 · 15초로 쓰려면 편집에서 1.6배속 |
+| 길이 | C2만 5초, 나머지 3초 = 26초 · 15초로 쓰려면 편집에서 배속 |
 | 착장 변경 | 브라렛 → 화이트 롱 튜브탑 · 부츠 → 처음에 벗었던 핑크 메리제인 힐을 다시 신음 |
 | 방식 | 시작/끝 프레임 지정 영상 생성, 클립당 3초 |
 | 합성 | 오른쪽은 C1~C8, 왼쪽은 대기 클립 1개를 각각 중앙 50% 크롭해서 이어 붙이면 왼쪽이 끊기지 않음 |
@@ -36,12 +36,12 @@
 Start image: K01. End image: K02.
 ```
 
-### C2 · 3.0–6.0s (3.0초) — 상체 내리기 (튜브탑) · K02 → K03
+### C2 · 3.0–8.0s (5.0초) — 상체 내리기 (튜브탑) · K02 → K03
 
-- 원본 1.5~2.7초 그대로. 힐 던짐 → 오른손이 왼쪽 어깨를 끌어내려 왼팔부터 빠짐 → (1.3초) 왼쪽 상체만 대각선으로 접혀 내려가고 오른쪽 어깨는 아직 걸린 상태 → 오른팔 빠짐 → (2.0초) 빈 상체가 허리에서 늘어짐 → 뒤집혀 스커트 위에 접힘 → 양손 허리. 맨 앞에 '분홍 트위드는 입고 있는 드레스 한 벌뿐' 규칙.
+- 한 클립 5초. 힐 던짐 → 오른손이 왼쪽 어깨를 끌어내려 왼팔부터 빠짐 → (2.2초) 왼쪽 상체만 대각선으로 접혀 내려가고 오른쪽 어깨는 아직 걸림 → 오른팔 빠짐 → (3.4초) 빈 상체가 허리에서 늘어짐 → 뒤집혀 스커트 위에 접힘 → 양손 허리. 맨 앞에 '분홍 트위드는 입고 있는 드레스 한 벌뿐' 규칙.
 
 ```text
-3-second vertical 9:16 split-screen clip, locked-off tripod, no camera movement. Same bright white apartment across both halves (kitchen behind the left, white door behind the right, soft daylight). Both halves show the same young East Asian woman as in the start image, with long dark-brown wavy hair parted in the middle, small gold hoop earrings, fair skin and soft natural makeup. LEFT HALF: she stays still in the plain pink tweed bubble mini dress and dusty-pink Mary Jane heels, hands clasped in front, only blinking.
+5-second vertical 9:16 split-screen clip, locked-off tripod, no camera movement. Same bright white apartment across both halves (kitchen behind the left, white door behind the right, soft daylight). Both halves show the same young East Asian woman as in the start image, with long dark-brown wavy hair parted in the middle, small gold hoop earrings, fair skin and soft natural makeup. LEFT HALF: she stays still in the plain pink tweed bubble mini dress and dusty-pink Mary Jane heels, hands clasped in front, only blinking.
 
 RIGHT HALF, object rules (follow strictly):
 - The only pink tweed garment in the right half is the one dress she is wearing. No second dress, vest, top or loose piece of pink fabric ever appears. Her hands only ever touch the dress she is wearing.
@@ -50,13 +50,13 @@ RIGHT HALF, object rules (follow strictly):
 - The heels leave the frame and never come back.
 
 RIGHT HALF, action with checkpoints:
-0.0-0.5s: she tosses the pink heels out of frame to the right; her hands are now empty.
-0.5-1.3s: her right hand crosses her chest, pinches the edge of the bodice at her LEFT shoulder and pulls it down off the shoulder; she draws her left elbow back and pulls her left arm out through the left armhole.
-CHECKPOINT 1.3s: left arm bare and outside the dress; the left half of the bodice has flopped down diagonally across her chest and stomach, showing the left part of the white tube top; the right half of the bodice is still on her right shoulder, so the dress looks one-shouldered; her right hand holds the loose left half at her chest.
-1.3-2.0s: she slides the right shoulder of the bodice down her right arm and pulls her right arm out through the right armhole.
-CHECKPOINT 2.0s: both arms bare; the whole empty bodice, with its round crew neckline and both armholes visible, hangs down from the waist seam in front of her stomach; the white tube top is fully visible.
-2.0-3.0s: she pushes the hanging bodice down so it turns inside out and folds over the top of the bubble skirt as a thick flap, then grips the fold at both hips, elbows out, looking down.
-CHECKPOINT 3.0s: exactly the end image.
+0.0-0.8s: she tosses the pink heels out of frame to the right; her hands are now empty.
+0.8-2.2s: her right hand crosses her chest, pinches the edge of the bodice at her LEFT shoulder and pulls it down off the shoulder; she draws her left elbow back and pulls her left arm out through the left armhole.
+CHECKPOINT 2.2s: left arm bare and outside the dress; the left half of the bodice has flopped down diagonally across her chest and stomach, showing the left part of the white tube top; the right half of the bodice is still on her right shoulder, so the dress looks one-shouldered; her right hand holds the loose left half at her chest.
+2.2-3.4s: she slides the right shoulder of the bodice down her right arm and pulls her right arm out through the right armhole.
+CHECKPOINT 3.4s: both arms bare; the whole empty bodice, with its round crew neckline and both armholes visible, hangs down from the waist seam in front of her stomach; the white tube top is fully visible.
+3.4-5.0s: she pushes the hanging bodice down so it turns inside out and folds over the top of the bubble skirt as a thick flap, then grips the fold at both hips, elbows out, looking down.
+CHECKPOINT 5.0s: exactly the end image.
 
 Realistic tweed folds, correct hands, face and hair identical to the start and end images.
 
@@ -69,7 +69,7 @@ Start image: K02. End image: K03.
 second dress, extra garment, separate vest, separate top, fabric appearing from nowhere, duplicated bodice, bodice detached from the skirt, dress becoming strapless, shoulder straps disappearing, neckline turning into a straight band, rolling the dress down like a tube, arms staying inside the dress, shoes reappearing, morphing, sudden outfit change, flickering, extra arms, extra hands, deformed fingers, camera movement
 ```
 
-### C3 · 6.0–9.0s (3.0초) — 드레스 뒤집기 + 블라우스 · K03 → K04
+### C3 · 8.0–11.0s (3.0초) — 드레스 뒤집기 + 블라우스 · K03 → K04
 
 - 드레스를 허리에서 돌려 U넥 피나포어로 다시 입음 → 안에 블라우스를 입은 상태로 양손 칼라 정리. 9장 중 변화가 가장 큰 구간.
 
@@ -79,7 +79,7 @@ second dress, extra garment, separate vest, separate top, fabric appearing from 
 Start image: K03. End image: K04.
 ```
 
-### C4 · 9.0–12.0s (3.0초) — 소매 + 리본 · K04 → K05
+### C4 · 11.0–14.0s (3.0초) — 소매 + 리본 · K04 → K05
 
 - 팔을 내리며 소매를 털어 플리츠 커프스를 펼침 → 칼라 앞 리본을 크게 묶음 → 손을 앞으로 모으고 미소.
 
@@ -89,7 +89,7 @@ Start image: K03. End image: K04.
 Start image: K04. End image: K05.
 ```
 
-### C5 · 12.0–15.0s (3.0초) — 레이스 타이츠 · K05 → K06
+### C5 · 14.0–17.0s (3.0초) — 레이스 타이츠 · K05 → K06
 
 - 리본 꼬리를 가슴 높이로 정리(K05와 K06 리본 길이 차이 연결) → 한쪽씩 레이스 타이츠 신기 → 정자세로 미소.
 
@@ -99,7 +99,7 @@ Start image: K04. End image: K05.
 Start image: K05. End image: K06.
 ```
 
-### C6 · 15.0–18.0s (3.0초) — 핑크 힐 다시 신기 · K06 → K07
+### C6 · 17.0–20.0s (3.0초) — 핑크 힐 다시 신기 · K06 → K07
 
 - 프레임 오른쪽에서 처음에 던진 핑크 힐을 다시 집어 옴 → 타이츠 위에 신음 → 양손 허리 + 발목 꼬기.
 
@@ -109,7 +109,7 @@ Start image: K05. End image: K06.
 Start image: K06. End image: K07.
 ```
 
-### C7 · 18.0–21.0s (3.0초) — 미니백 · K07 → K08
+### C7 · 20.0–23.0s (3.0초) — 미니백 · K07 → K08
 
 - 다리 풀고 손을 내림 → 프레임 오른쪽에서 크림 미니백을 윗손잡이로 집어 들고 내려다봄.
 
@@ -119,7 +119,7 @@ Start image: K06. End image: K07.
 Start image: K07. End image: K08.
 ```
 
-### C8 · 21.0–24.0s (3.0초) — 피날레 · K08 → K09
+### C8 · 23.0–26.0s (3.0초) — 피날레 · K08 → K09
 
 - 가방을 오른쪽 어깨에 메고 손 모은 포즈로 미소. 왼쪽은 마지막 1초에 고개를 돌려 오른쪽을 봄.
 
@@ -127,63 +127,6 @@ Start image: K07. End image: K08.
 3-second vertical 9:16 split-screen clip, locked-off tripod, no camera movement. The same bright white apartment continues across both halves (white kitchen and dried flowers behind the left, white paneled door and grey boucle sofa behind the right, light oak floor, soft daylight, pastel-pink grade). Both halves show the same young East Asian woman as in the start image, with long dark-brown wavy hair parted in the middle, small gold hoop earrings, fair skin and soft natural makeup. LEFT HALF: she stays still in the plain pink tweed bubble mini dress and dusty-pink Mary Jane heels, hands clasped in front, only breathing and blinking. RIGHT HALF: she slides the bag onto her right shoulder and settles into a hands-clasped pose with a confident smile at the camera. EXCEPTION FOR THE LEFT HALF: in the last second, the left woman turns her head toward the right half and looks at her with an amused, impressed smile. Brisk, natural movements that fit in three seconds; tweed, satin and lace move realistically; hands stay anatomically correct; face, hair and every garment detail match the start and end images exactly.
 
 Start image: K08. End image: K09.
-```
-
-## 추천: C2 나누기 (한쪽만 빠진 프레임 추가)
-
-원본의 핵심 장면인 '왼팔만 빠져서 한쪽 어깨만 걸린 상태'를 이미지로 한 장(K02.5) 만들어 두고 C2a + C2b로 나누는 방식. 한 클립 안에서 바뀌는 양이 절반이라 드레스가 다른 옷으로 바뀌거나 새 옷이 생기는 일이 크게 줄어듦. 네거티브는 C2와 같은 걸 쓰면 됨.
-
-### K02.5 · 이미지 프롬프트 (K02 + K03 첨부해서 편집)
-
-```text
-Edit the first attached image (K02); use the second attached image (K03) only for the exact look of the white tube top. Keep everything else identical: the left half, the room, the framing, the lighting, and the right woman's face, hair, body, bare feet and bubble skirt. Change only the right woman: the pink heels are gone from her hands. Her left arm is now out of the dress: the left half of the sleeveless pink tweed bodice has been pulled off her left shoulder and flops down diagonally across her chest and stomach, still attached to the skirt at the dropped waist, showing the left part of the smooth white strapless longline tube top underneath. The right half of the bodice is still on her right shoulder, so the dress looks one-shouldered. Her right hand crosses her body and holds the loose left half at her chest; her bare left arm hangs relaxed. She looks down.
-```
-
-### C2a · 3.0–4.5s — 힐 던지기 + 왼팔 빼기 · K02 → K02.5
-
-- 힐을 던지고 → 오른손으로 왼쪽 어깨를 끌어내려 왼팔을 뺌 → 왼쪽 상체만 접혀 내려간 한쪽 어깨 상태까지.
-
-```text
-3-second vertical 9:16 split-screen clip, locked-off tripod, no camera movement. Same bright white apartment across both halves (kitchen behind the left, white door behind the right, soft daylight). Both halves show the same young East Asian woman as in the start image, with long dark-brown wavy hair parted in the middle, small gold hoop earrings, fair skin and soft natural makeup. LEFT HALF: she stays still in the plain pink tweed bubble mini dress and dusty-pink Mary Jane heels, hands clasped in front, only blinking.
-
-RIGHT HALF, object rules (follow strictly):
-- The only pink tweed garment in the right half is the one dress she is wearing. No second dress, vest, top or loose piece of pink fabric ever appears. Her hands only ever touch the dress she is wearing.
-- The bodice stays attached to the bubble skirt at the dropped-waist seam the whole time; it is never detached, it only slides off her shoulders and folds down.
-- The white strapless longline tube top is already on her body under the dress; it is only uncovered as the bodice moves away.
-- The heels leave the frame and never come back.
-
-RIGHT HALF, action:
-0.0-1.0s: she tosses the pink heels out of frame to the right; her hands are now empty.
-1.0-3.0s: her right hand crosses her chest, pinches the edge of the bodice at her LEFT shoulder and pulls it down off the shoulder; she draws her left elbow back and slowly pulls her left arm out through the left armhole. The right shoulder of the bodice stays on.
-END STATE: left arm bare and outside the dress; the left half of the bodice has flopped down diagonally across her chest and stomach, showing the left part of the white tube top; the right half of the bodice is still on her right shoulder, so the dress looks one-shouldered; her right hand holds the loose left half at her chest, exactly as in the end image.
-
-Realistic tweed folds, correct hands, face and hair identical to the start and end images.
-
-Start image: K02. End image: K02.5.
-```
-
-### C2b · 4.5–6.0s — 오른팔 빼기 + 접어 내리기 · K02.5 → K03
-
-- 오른팔도 빼서 빈 상체가 허리에서 늘어짐 → 뒤집혀 스커트 위에 덮개로 접힘 → 양손 허리.
-
-```text
-3-second vertical 9:16 split-screen clip, locked-off tripod, no camera movement. Same bright white apartment across both halves (kitchen behind the left, white door behind the right, soft daylight). Both halves show the same young East Asian woman as in the start image, with long dark-brown wavy hair parted in the middle, small gold hoop earrings, fair skin and soft natural makeup. LEFT HALF: she stays still in the plain pink tweed bubble mini dress and dusty-pink Mary Jane heels, hands clasped in front, only blinking.
-
-RIGHT HALF, object rules (follow strictly):
-- The only pink tweed garment in the right half is the one dress she is wearing. No second dress, vest, top or loose piece of pink fabric ever appears. Her hands only ever touch the dress she is wearing.
-- The bodice stays attached to the bubble skirt at the dropped-waist seam the whole time; it is never detached, it only slides off her shoulders and folds down.
-- The white strapless longline tube top is already on her body under the dress; it is only uncovered as the bodice moves away.
-- The heels leave the frame and never come back.
-
-RIGHT HALF, action:
-0.0-1.2s: she slides the right shoulder of the bodice down her right arm and pulls her right arm out through the right armhole.
-CHECKPOINT 1.2s: both arms bare; the whole empty bodice, with its round crew neckline and both armholes visible, hangs down from the waist seam in front of her stomach; the white tube top is fully visible.
-1.2-3.0s: she pushes the hanging bodice down so it turns inside out and folds over the top of the bubble skirt as a thick flap, then grips the fold at both hips, elbows out, looking down.
-END STATE: exactly the end image.
-
-Realistic tweed folds, correct hands, face and hair identical to the start and end images.
-
-Start image: K02.5. End image: K03.
 ```
 
 ## L · 왼쪽 대기 클립 (24초)
@@ -196,7 +139,7 @@ Vertical 9:16 video, 24 seconds, locked-off tripod, zero camera movement. Bright
 
 | 항목 | 내용 |
 |---|---|
-| 클립 길이 | C1~C8 각 3초 = 24초. C2를 C2a + C2b로 나누면 27초 (편집에서 C2a, C2b를 각각 1.5초로 줄이면 24초 유지). |
+| 클립 길이 | C1 3초 · C2 5초 · C3~C8 각 3초 = 26초. C2는 원본에서 1.2초짜리 동작이라 편집에서 2~3배속으로 줄여도 자연스러움. |
 | 15초로 맞추기 | 전체를 1.6배속 하거나, 클립마다 앞뒤를 잘라 1.9초 안팎으로 줄이기. 원본도 오른쪽이 점프컷이라 잘라낸 티가 나도 자연스러움. |
 | 좌우 합성 | 왼쪽 대기 클립(L)을 왼쪽 50%, C1~C8을 오른쪽 50%로 크롭해서 배치하면 클립이 바뀔 때 왼쪽이 튀지 않음. 귀찮으면 C1~C8을 통째로 이어 붙여도 됨. |
 | 비트 | 약 120BPM, 1초마다 강박. 힐 던지는 순간, 피나포어 완성, 리본 완성, 힐 다시 신기, 가방 메기를 강박에 맞추기. |
