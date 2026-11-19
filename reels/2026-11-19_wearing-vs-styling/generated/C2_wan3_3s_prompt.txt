@@ -1,1 +1,18 @@
-(3초 버전: 5초 프롬프트와 같은 내용, 타이밍만 0.0-0.4 / 0.4-1.4 / 1.4-2.0 / 2.0-3.0으로 줄임. 모델 wan3_0, 720p, 9:16, 오디오 끔, thinking 켬, 시작 K02 / 끝 K03)
+3-second vertical 9:16 split-screen clip, locked tripod, no camera move. Same bright white apartment across both halves. Two women: A in the left panel, B in the right panel, same face and hair as in the start image. Only B changes clothes. A never changes anything: she stands still in the pink tweed crew-neck bubble mini dress and pink Mary Jane heels exactly as in the start image, hands clasped, never touching her dress, only blinking.
+
+B's object rules (strict):
+- The only pink tweed garment on B is the one dress she wears; no second dress, vest, top or loose pink fabric ever appears.
+- The bodice stays sewn to the bubble skirt at the dropped waist; it only slides off her shoulders and folds down.
+- The white strapless longline tube top is already under the dress; it is only uncovered as the bodice moves away.
+- The heels leave past the right frame edge and never come back.
+
+B TIMELINE (B always faces the camera, brisk real-time pace):
+0.0-0.4s B tosses the pink heels out past the right frame edge; her hands are now empty.
+0.4-1.4s B's hand crosses her chest and pushes the opposite shoulder of the bodice off that shoulder; she bends that elbow and pulls that arm out through its armhole.
+CHECKPOINT 1.4s: one arm bare and outside the dress; that half of the bodice flops down diagonally across her chest, showing part of the white tube top; the other shoulder of the bodice is still on, so the dress looks one-shouldered.
+1.4-2.0s B slides the other shoulder of the bodice down her arm and pulls that arm out through its armhole.
+CHECKPOINT 2.0s: both arms bare; the empty bodice, with its round crew neckline and both armholes visible, hangs down from the waist seam in front of her stomach; the tube top is fully visible.
+2.0-3.0s B pushes the hanging bodice down so it turns inside out and folds over the top of the skirt as a thick flap, then grips the fold at both hips, elbows out, looking down.
+CHECKPOINT 3.0s: exactly the end image.
+
+The dress is never strapless while it is on her shoulders. Realistic tweed folds, correct hands; faces, hair and A's outfit identical to the start and end images.
