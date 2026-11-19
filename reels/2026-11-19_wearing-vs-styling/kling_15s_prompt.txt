@@ -1,21 +1,21 @@
-15s vertical 9:16 split-screen, locked tripod, no camera move. Keyframes in order: image 1 at 0s, images 2-8 as middle frames, image 9 at 13.8s, hold to 15s. Every object keeps the exact shape, color, size and position from the images; the room never changes.
+15s vertical 9:16 split-screen, locked tripod. Keyframes in order: image 1 at 0s, images 2-8 as middle frames, image 9 at 13.8s, then hold. Every object keeps its exact shape, color, size and position from the images.
 
-LEFT WOMAN (center of left half): pink tweed bubble mini dress, pink Mary Jane heels, hands clasped, still; at 13.0s turns her head right with an amused smile.
+Two women: A in the left panel, B in the right panel. Only B changes clothes. A never changes anything: for all 15s she wears exactly what image 1 shows, a pink tweed crew-neck bubble mini dress and pink Mary Jane heels, hands clasped; she never touches her dress and never shows a tube top, V-neck, pinafore, blouse or zipper. At 13.0s A turns her head toward B with an amused smile.
 
-RIGHT WOMAN (center of right half), same face and hair, always facing the camera. Her objects, one of each: pink tweed dress (bodice and back zipper sewn to the skirt), pointed pink suede Mary Jane heels with clear kitten heels, white strapless longline tube top under the dress, ivory satin blouse (ruffle jabot, balloon sleeves, pleated cuffs, ribbon ties), sheer white lace tights with small bows, small cream flap bag with gold twist-lock. New items enter only from the right frame edge in her hand; tossed items leave past the right edge.
+B's objects, one of each: pink tweed dress (bodice and back zipper sewn on), pink suede Mary Jane heels, white strapless longline tube top under the dress, ivory satin blouse (ruffle jabot, balloon sleeves, pleated cuffs, ribbon ties), sheer white lace tights with small bows, small cream flap bag with gold twist-lock. New items come in from outside the right frame edge in B's hand; tossed items leave past that edge. Nothing appears on B's body unless she puts it on.
 
-TIMELINE:
-0-0.4s same as the left woman (image 1).
-0.4-1.4s kicks off the heels, holds both at her waist (image 2).
-1.4-2.0s tosses the heels out past the right edge.
-2.0-2.8s left strap off her left shoulder, left arm out, then right arm out; the whole bodice drops and hangs folded around her waist, uncovering the tube top (image 3).
-2.8-3.3s DRESS TURN: her body keeps facing the camera; gripping the waistband at both hips, she slides the whole dress half a turn around her waist, the skirt swirling, until its back with the open zipper faces the camera.
-3.3-4.0s she pulls the bodice up, left side first: left arm through the left armhole, then right arm through the right; the bodice is open down the center in a deep V to the waist, tube top showing.
-4.0-4.6s she zips the center zipper up to her chest: a deep U-neck pinafore with a center seam.
-4.6-5.8s takes the blouse from the right edge, shakes it out; wearing it under the pinafore, fixes the collar, ribbons loose (image 4).
-5.8-7.8s shakes out the sleeves, ties an oversized bow, hands clasped (image 5).
-7.8-9.6s tucks the bow tails to mid-chest; takes the tights from the right edge, pulls them on one leg at a time (image 6).
-9.6-11.6s takes the same heels back from the right edge at floor level, steps in over the tights, hands on hips, ankles crossed (image 7).
-11.6-12.6s takes the bag from the right edge by its handle, holds it at her right hip (image 8).
-12.6-13.8s bag onto her right shoulder; hands clasped (image 9).
+B TIMELINE (B always faces the camera):
+0-0.4s B matches A (image 1).
+0.4-1.4s B kicks off the heels, holds both at her waist (image 2).
+1.4-2.0s B tosses the heels out past the right frame edge.
+2.0-2.8s B pushes one shoulder of the bodice off and slides that arm out of its armhole, then the other arm; the bodice drops and hangs folded around her waist, uncovering the tube top (image 3).
+2.8-3.3s B grips the waistband at both hips and slides the whole dress half a turn around her waist, skirt swirling, until its open back zipper faces the camera.
+3.3-4.0s B pulls the bodice up and threads one arm, then the other, through the armholes; it is open in a deep V to the waist.
+4.0-4.6s B zips the center zipper up to her chest: deep U-neck pinafore.
+4.6-5.8s B takes the blouse from the right frame edge, shakes it out; wearing it under the pinafore, fixes the collar (image 4).
+5.8-7.8s B shakes out the sleeves, ties a big bow, hands clasped (image 5).
+7.8-9.6s B tucks the bow tails to mid-chest, takes the bunched tights from the right frame edge and pulls them up one bare leg at a time (image 6).
+9.6-11.6s B takes the same heels back from the right frame edge, steps in, hands on hips, ankles crossed (image 7).
+11.6-12.6s B takes the bag from the right frame edge, holds it by its handle at her hip (image 8).
+12.6-13.8s B puts the bag on her shoulder, hands clasped (image 9).
 13.8-15s both hold.
