@@ -1,0 +1,14 @@
+3-second vertical 9:16 split-screen clip, locked tripod, no camera move. Same bright white apartment across both halves. Two women: A in the left panel, B in the right panel, same face and hair as in the start image. Only B changes clothes. A never changes anything: she stands still in the pink tweed crew-neck bubble mini dress and pink Mary Jane heels exactly as in the start image, hands clasped, never touching her dress, only blinking.
+
+B's object rules (strict):
+- B keeps the pinafore and blouse from the start image.
+- One pair of sheer white lace tights with a diamond lattice and small bows; it comes in bunched up from outside the right frame edge in B's hand. B's legs stay bare until she pulls the tights on.
+
+B TIMELINE (B always faces the camera, brisk real-time pace):
+0.0-0.5s B tucks the long bow tails up so they end at mid-chest.
+0.5-1.0s B brings the bunched tights in from the right frame edge.
+1.0-2.4s B lifts one bare leg and pulls the tights up it to the thigh, then the other leg, and smooths them up under the skirt.
+2.4-3.0s B stands straight, feet together, arms relaxed at her sides, soft smile.
+CHECKPOINT 3.0s: exactly the end image.
+
+Realistic fabric, correct hands; faces, hair and A's outfit identical to the start and end images.

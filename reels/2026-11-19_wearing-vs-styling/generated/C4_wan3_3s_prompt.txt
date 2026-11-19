@@ -1,0 +1,13 @@
+3-second vertical 9:16 split-screen clip, locked tripod, no camera move. Same bright white apartment across both halves. Two women: A in the left panel, B in the right panel, same face and hair as in the start image. Only B changes clothes. A never changes anything: she stands still in the pink tweed crew-neck bubble mini dress and pink Mary Jane heels exactly as in the start image, hands clasped, never touching her dress, only blinking.
+
+B's object rules (strict):
+- B keeps the same outfit as the start image: pink tweed U-neck pinafore over the ivory satin blouse; no garment is added or removed.
+- The two satin ribbon ties are part of the blouse collar.
+
+B TIMELINE (B always faces the camera, brisk real-time pace):
+0.0-0.8s B lowers her arms and shakes out the balloon sleeves so the knife-pleated cuffs flare.
+0.8-2.2s B takes both ribbon ties and knots them into an oversized satin bow at the collar, above the ruffle jabot.
+2.2-3.0s B lets the long bow tails fall down the front and clasps her hands in front of her waist with a soft smile.
+CHECKPOINT 3.0s: exactly the end image.
+
+Realistic fabric, correct hands; faces, hair and A's outfit identical to the start and end images.

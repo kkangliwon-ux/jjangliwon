@@ -1,0 +1,16 @@
+3-second vertical 9:16 split-screen clip, locked tripod, no camera move. Same bright white apartment across both halves. Two women: A in the left panel, B in the right panel, same face and hair as in the start image. Only B changes clothes. A never changes anything: she stands still in the pink tweed crew-neck bubble mini dress and pink Mary Jane heels exactly as in the start image, hands clasped, never touching her dress, only blinking.
+
+B's object rules (strict):
+- One pink tweed dress, its bodice and back zipper sewn to the bubble skirt; no second dress or loose pink fabric ever appears.
+- The white strapless longline tube top stays on under the dress.
+- One ivory satin blouse (pointed collar, ruffle jabot, balloon sleeves, knife-pleated cuffs, two long ribbon ties); it comes in from outside the right frame edge in B's hand.
+
+B TIMELINE (B always faces the camera, brisk real-time pace):
+0.0-0.6s B grips the waistband at both hips and slides the whole dress half a turn around her waist, skirt swirling, until its open back zipper faces the camera; her body does not turn.
+0.6-1.2s B pulls the bodice up and threads one arm, then the other, through the armholes; it is open in a deep V to the waist over the tube top.
+1.2-1.6s B zips the center zipper up to her chest: a deep U-neck pinafore.
+1.6-2.2s B brings the blouse in from the right frame edge and shakes it open in front of her.
+2.2-3.0s now wearing the blouse under the pinafore, B raises both hands to her neck to straighten the collar, ribbons hanging loose, sleeves billowing.
+CHECKPOINT 3.0s: exactly the end image.
+
+Realistic fabric, correct hands; faces, hair and A's outfit identical to the start and end images.

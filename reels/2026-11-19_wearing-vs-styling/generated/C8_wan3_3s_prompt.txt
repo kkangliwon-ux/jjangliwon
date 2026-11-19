@@ -1,0 +1,12 @@
+3-second vertical 9:16 split-screen clip, locked tripod, no camera move. Same bright white apartment across both halves. Two women: A in the left panel, B in the right panel, same face and hair as in the start image. A never changes her outfit or moves her body: she stands still in the pink tweed crew-neck bubble mini dress and pink Mary Jane heels, hands clasped. From 1.8s A slowly turns her head toward B and looks at her with an amused, impressed smile, and holds that look.
+
+B's object rules (strict):
+- B keeps her whole outfit from the start image; the cream flap bag with the gold twist-lock is the only bag.
+
+B TIMELINE (B always faces the camera, brisk real-time pace):
+0.0-1.4s B lifts the bag and slides its strap up onto the shoulder on the same side as the hand holding it, so the bag hangs at her ribs.
+1.4-2.2s B lets go and settles into a pose with hands loosely clasped in front of her, confident smile at the camera.
+2.2-3.0s B holds the pose.
+CHECKPOINT 3.0s: exactly the end image.
+
+Realistic fabric, correct hands; faces, hair and A's outfit identical to the start and end images.
