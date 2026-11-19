@@ -1,0 +1,28 @@
+15s vertical 9:16 split-screen, locked tripod, no camera move. Keyframes in order: image 1 at 0s, images 2-8 as middle frames, image 9 at 13.8s, hold to 15s. Every object keeps the exact shape, color, size and position from the images.
+
+SCENE (static): kitchen cabinets, steel oven and dried flowers in a blue-grey vase on a dark stool behind the left; white door with a black lever handle and a grey sofa arm behind the right; oak floor.
+
+LEFT WOMAN (center of left half): pink tweed bubble mini dress, pink suede Mary Jane heels, hands clasped at hips, still; at 13.0s turns her head right with an amused smile.
+
+RIGHT WOMAN (center of right half), same face and hair. Her objects:
+- Dress: one pink tweed dress, bodice attached at the dropped waist.
+- Heels: one pair of pointed pink suede Mary Janes, buckle strap, clear kitten heel.
+- Tube top: white strapless longline, straight edge across the chest, under the dress from the start.
+- Blouse: ivory satin, pointed collar, ruffle jabot, balloon sleeves, pleated flared cuffs, ribbon ties.
+- Tights: sheer white lace, diamond lattice with small bows.
+- Bag: small cream rectangular flap bag, gold twist-lock, short top handle.
+New items enter only from the right frame edge in her hand; tossed items exit past the right edge.
+
+TIMELINE:
+0-0.4s same as the left woman (image 1).
+0.4-1.4s kicks off the heels, holds both at her waist (image 2).
+1.4-2.0s tosses the heels out past the right edge; hands empty.
+2.0-2.8s pulls the left strap off her shoulder, left arm out (right shoulder still on), then right arm out; the bodice drops and folds over the skirt as a flap, uncovering the tube top (image 3).
+2.8-4.6s spins the dress 180° at the waist, pulls it up, arms back through the armholes: deep U-neck pinafore over the tube top.
+4.6-5.8s takes the blouse from the right edge, shakes it out; wearing it under the pinafore, fixes the collar, ribbons loose (image 4).
+5.8-7.8s shakes out the sleeves, ties an oversized bow at the collar, hands clasped (image 5).
+7.8-9.6s tucks the bow tails to mid-chest; takes the tights from the right edge, pulls them on one leg at a time (image 6).
+9.6-11.6s takes the same heels back from the right edge at floor level, steps in over the tights, hands on hips, ankles crossed (image 7).
+11.6-12.6s takes the bag from the right edge by its handle, holds it at her right hip (image 8).
+12.6-13.8s bag onto her right shoulder, hanging at her right ribs; hands clasped (image 9).
+13.8-15s both hold.
