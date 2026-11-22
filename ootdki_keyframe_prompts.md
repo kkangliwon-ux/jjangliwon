@@ -110,3 +110,30 @@ Static locked-off vertical camera. The woman in @Model stands in the @Background
 | 8 | 14.37–15.77 | KF10 |
 | 9 | 15.77–17.77 | KF11 |
 | 10 | 17.77–19.78 | KF12 |
+
+---
+
+## 통합 프롬프트 (한 장에 12컷 그리드)
+```
+A single image laid out as a clean 4-column × 3-row grid of 12 equal vertical 9:16 panels, thin white gutters, fashion layering lookbook storyboard. Every panel shows the same woman from @Model (same face, hair, skin tone, body), high sleek bun, black cat-eye sunglasses, gold hoop earrings, full body head to toe, straight-on eye-level camera, centered, in the exact space of @Background with the same soft natural daylight and ootdki aesthetic. Identical camera, framing, lighting and background in all 12 panels; only the outfit and pose change.
+
+Row 1 (Look 1), left to right:
+1) fitted white ribbed scoop-neck tank, high-waisted black matte leggings, white crew socks, no shoes, arms relaxed.
+2) slim black turtleneck tucked into black leggings, white socks, thin gold necklace, hand touching collar.
+3) black turtleneck under a charcoal houndstooth double-breasted blazer cinched with a black gold-buckle belt, black leggings, white socks, hand on chest.
+4) same belted houndstooth blazer look with black pointed-toe stiletto ankle boots, holding a structured black leather top-handle bag.
+
+Row 2 (Look 2), left to right:
+5) white ribbed tank, black leggings, white socks, no shoes.
+6) black sleeveless mock-neck fitted top, black leggings, white socks, layered gold necklaces, hand at shoulder.
+7) oversized chunky oatmeal shawl-collar cardigan with balloon sleeves over the black top, wrapped and cinched with a wide dark-brown gold-buckle belt, black leggings, white socks, hand at earring.
+8) same belted oatmeal cardigan look with black knee-high block-heel boots, holding a small burgundy top-handle bag.
+
+Row 3 (Look 3), left to right:
+9) white ribbed tank, black leggings, white socks, no shoes.
+10) fitted cream ribbed turtleneck tucked into black leggings, white socks, gold watch, hand near shoulder.
+11) long chocolate-brown sleeveless knit duster below the knee over the cream turtleneck, cinched with a thin dark-brown belt, black leggings, white socks.
+12) same belted brown duster look with dark-brown knee-high riding boots, holding a burgundy leather tote.
+
+Photorealistic, realistic skin texture, natural hands, crisp editorial outfit-of-the-day look. No text, no captions, no numbers, no watermark, no extra people.
+```
