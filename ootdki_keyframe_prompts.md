@@ -178,7 +178,7 @@ Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 15 seconds, 12 s
 2.4–3.6s panel 3: belted charcoal houndstooth blazer added; hand on chest, other hand gesturing out.
 3.6–5.0s panel 4: black pointed ankle boots and black top-handle bag; slight hip turn to show the silhouette.
 5.0–6.0s panel 5: back to white tank and black leggings; relaxed weight shift.
-6.0–7.2s panel 6: black sleeveless mock-neck top; hand at her shoulder, says a few words to camera.
+6.0–7.2s panel 6: black sleeveless mock-neck top; hand at her shoulder, smiles at the camera.
 7.2–8.4s panel 7: oversized oatmeal cardigan with wide brown belt; touches her earring.
 8.4–10.0s panel 8: black knee-high boots and burgundy bag; confident pose.
 10.0–11.0s panel 9: back to white tank and black leggings; slight body angle.
@@ -212,7 +212,7 @@ Clean hard cuts only, no transitions, no morphing, no camera movement. Photoreal
 Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 5 seconds, 4 shots with fast hard cuts on the beat. @Image1 is the storyboard grid; recreate only the middle row, panels 5 to 8, left to right — same woman, same face and body, same outfits, same background, same framing. Locked-off static camera at eye level, full body head to toe centered, identical framing and soft natural daylight in every shot, so only the outfit changes. High sleek bun, black cat-eye sunglasses, gold hoop earrings throughout.
 
 0.0–1.0s panel 5: white ribbed tank, black leggings, white socks; relaxed weight shift.
-1.0–2.2s panel 6: black sleeveless mock-neck top; hand at her shoulder, says a few words to camera.
+1.0–2.2s panel 6: black sleeveless mock-neck top; hand at her shoulder, smiles at the camera.
 2.2–3.4s panel 7: oversized oatmeal cardigan cinched with a wide brown belt; touches her earring.
 3.4–5.0s panel 8: black knee-high boots and burgundy bag; confident pose, holds it.
 
