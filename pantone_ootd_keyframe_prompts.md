@@ -21,7 +21,7 @@
 
 ## 공통 블록 (모든 프롬프트 앞에 붙이기)
 ```
-Vertical 9:16 fashion color-palette lookbook frame. Pure seamless white background. The woman is exactly the person in @Model: same face, hair, skin tone, body proportions. Hair in a high sleek bun, black cat-eye sunglasses, gold hoop earrings. Full body head to toe, cleanly cut out like a studio photo on white, straight-on eye-level camera, centered, occupying about 70% of the frame height.
+Vertical 9:16 fashion color-palette lookbook frame. Pure seamless white background. The woman is exactly the person in @Model: same face, hair, skin tone, body proportions. Hair in a high sleek bun, gold hoop earrings. Full body head to toe, cleanly cut out like a studio photo on white, straight-on eye-level camera, centered, occupying about 70% of the frame height.
 Behind her, three large Pantone-style color swatch cards, each a solid color square with a white label strip and a pinked zig-zag edge, tilted at different angles and stacked vertically and overlapping: the top card behind her head and shoulders, the middle card behind her torso, the bottom card behind her legs. Along the very bottom edge of the frame, a fanned-out Pantone color guide arcs across in a half-circle, showing many small color chips.
 Lightweight breathable summer clothing for hot humid tropical weather. Bright even soft studio light, crisp editorial look, realistic skin and fabric texture, natural hands.
 No extra people, no watermark, no captions other than small swatch labels.
@@ -86,7 +86,7 @@ busy background, room, floor, shadows on wall, heavy winter clothing, coat, fur,
 
 ## 통합 프롬프트 (한 장에 8컷 그리드)
 ```
-A single image laid out as a clean 4-column × 2-row grid of 8 equal vertical 9:16 panels, thin white gutters, summer fashion color-palette lookbook storyboard. Every panel: pure white background, the same woman from @Model (same face, hair, skin tone, body), high sleek bun, black cat-eye sunglasses, gold hoop earrings, full body head to toe, centered, eye-level camera, studio cut-out look. Behind her in most panels, three tilted Pantone-style swatch cards with white label strips and zig-zag edges stacked top / middle / bottom, and a fanned Pantone color guide arcing along the bottom edge. Identical framing and scale in all 8 panels. All clothing is lightweight and breathable for hot tropical weather.
+A single image laid out as a clean 4-column × 2-row grid of 8 equal vertical 9:16 panels, thin white gutters, summer fashion color-palette lookbook storyboard. Every panel: pure white background, the same woman from @Model (same face, hair, skin tone, body), high sleek bun, gold hoop earrings, full body head to toe, centered, eye-level camera, studio cut-out look. Behind her in most panels, three tilted Pantone-style swatch cards with white label strips and zig-zag edges stacked top / middle / bottom, and a fanned Pantone color guide arcing along the bottom edge. Identical framing and scale in all 8 panels. All clothing is lightweight and breathable for hot tropical weather.
 
 Row 1, left to right:
 1) black-and-white woman, arms crossed, three-quarter angle, in a lightweight linen blazer, cotton tank, knee-length linen Bermuda shorts, fisherman sandals; a huge full-color fanned color guide in warm sands and corals behind her instead of swatch cards.
@@ -109,7 +109,7 @@ Photorealistic, realistic fabric texture, natural hands. No large text, no numbe
 
 ### 공통 모션 블록
 ```
-Locked-off static vertical camera on a pure white background, no zoom, no pan. Full body stays in frame head to toe. The woman keeps her exact face, sunglasses and outfit. Pantone-style swatch cards behind her slide and rotate into place with snappy motion; the fanned color guide along the bottom edge rotates slightly. Light summer fabrics move softly. Real-time speed, upbeat fashion reel energy. No morphing of the face, no extra people.
+Locked-off static vertical camera on a pure white background, no zoom, no pan. Full body stays in frame head to toe. The woman keeps her exact face and outfit. Pantone-style swatch cards behind her slide and rotate into place with snappy motion; the fanned color guide along the bottom edge rotates slightly. Light summer fabrics move softly. Real-time speed, upbeat fashion reel energy. No morphing of the face, no extra people.
 ```
 
 | # | 구간 | 프레임 | 모션 |
