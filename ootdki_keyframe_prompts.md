@@ -187,3 +187,44 @@ Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 15 seconds, 12 s
 13.4–15.0s panel 12: brown knee-high riding boots and burgundy tote; small hip turn, holds the final pose.
 
 Clean hard cuts only, no transitions, no morphing between outfits, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
+
+---
+
+## 릴스 5초 × 3 분할 프롬프트 (Look별)
+각 프롬프트에 12컷 그리드 이미지를 **@Image1**로 첨부. 9:16, 5초. 생성 후 1→2→3 순서로 이어 붙이면 15초 릴스.
+
+### Part 1 (0–5s) · Look 1 · 그리드 1행
+```
+Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 5 seconds, 4 shots with fast hard cuts on the beat. @Image1 is the storyboard grid; recreate only the top row, panels 1 to 4, left to right — same woman, same face and body, same outfits, same background, same framing. Locked-off static camera at eye level, full body head to toe centered, identical framing and soft natural daylight in every shot, so only the outfit changes. High sleek bun, black cat-eye sunglasses, gold hoop earrings throughout.
+
+0.0–1.2s panel 1: white ribbed tank, black leggings, white socks; she shifts her weight onto one hip.
+1.2–2.4s panel 2: black turtleneck added; she touches the collar.
+2.4–3.6s panel 3: belted charcoal houndstooth blazer added; hand on chest, other hand gesturing out.
+3.6–5.0s panel 4: black pointed ankle boots and black top-handle bag; slight hip turn, holds the pose.
+
+Clean hard cuts only, no transitions, no morphing, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
+```
+
+### Part 2 (5–10s) · Look 2 · 그리드 2행
+```
+Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 5 seconds, 4 shots with fast hard cuts on the beat. @Image1 is the storyboard grid; recreate only the middle row, panels 5 to 8, left to right — same woman, same face and body, same outfits, same background, same framing. Locked-off static camera at eye level, full body head to toe centered, identical framing and soft natural daylight in every shot, so only the outfit changes. High sleek bun, black cat-eye sunglasses, gold hoop earrings throughout.
+
+0.0–1.0s panel 5: white ribbed tank, black leggings, white socks; relaxed weight shift.
+1.0–2.2s panel 6: black sleeveless mock-neck top; hand at her shoulder, says a few words to camera.
+2.2–3.4s panel 7: oversized oatmeal cardigan cinched with a wide brown belt; touches her earring.
+3.4–5.0s panel 8: black knee-high boots and burgundy bag; confident pose, holds it.
+
+Clean hard cuts only, no transitions, no morphing, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
+```
+
+### Part 3 (10–15s) · Look 3 · 그리드 3행
+```
+Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 5 seconds, 4 shots with fast hard cuts on the beat. @Image1 is the storyboard grid; recreate only the bottom row, panels 9 to 12, left to right — same woman, same face and body, same outfits, same background, same framing. Locked-off static camera at eye level, full body head to toe centered, identical framing and soft natural daylight in every shot, so only the outfit changes. High sleek bun, black cat-eye sunglasses, gold hoop earrings throughout.
+
+0.0–1.0s panel 9: white ribbed tank, black leggings, white socks; slight body angle.
+1.0–2.2s panel 10: cream ribbed turtleneck; hand near shoulder, small head tilt.
+2.2–3.4s panel 11: belted long chocolate-brown sleeveless duster; the knit sways as she shifts.
+3.4–5.0s panel 12: brown knee-high riding boots and burgundy tote; small hip turn, holds the final pose.
+
+Clean hard cuts only, no transitions, no morphing, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
+```
