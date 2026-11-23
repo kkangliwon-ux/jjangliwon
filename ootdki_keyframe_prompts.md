@@ -202,6 +202,8 @@ Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 5 seconds, 4 sho
 2.4–3.6s panel 3: belted charcoal houndstooth blazer added; hand on chest, other hand gesturing out.
 3.6–5.0s panel 4: black pointed ankle boots and black top-handle bag; slight hip turn, holds the pose.
 
+Audio: Korean voiceover by a young woman, casual, warm and upbeat, clear diction, paced evenly across the 5 seconds: "레깅스 하나로 세 가지 룩. 터틀넥, 블레이저, 그리고 앵클부츠." Voice only, no background music.
+
 Clean hard cuts only, no transitions, no morphing, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
 ```
 
@@ -214,6 +216,8 @@ Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 5 seconds, 4 sho
 2.2–3.4s panel 7: oversized oatmeal cardigan cinched with a wide brown belt; touches her earring.
 3.4–5.0s panel 8: black knee-high boots and burgundy bag; confident pose, holds it.
 
+Audio: Korean voiceover by a young woman, casual, warm and upbeat, clear diction, paced evenly across the 5 seconds: "두 번째, 민소매 탑에 오트밀 가디건, 벨트 묶고 롱부츠." Voice only, no background music.
+
 Clean hard cuts only, no transitions, no morphing, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
 ```
 
@@ -225,6 +229,8 @@ Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 5 seconds, 4 sho
 1.0–2.2s panel 10: cream ribbed turtleneck; hand near shoulder, small head tilt.
 2.2–3.4s panel 11: belted long chocolate-brown sleeveless duster; the knit sways as she shifts.
 3.4–5.0s panel 12: brown knee-high riding boots and burgundy tote; small hip turn, holds the final pose.
+
+Audio: Korean voiceover by a young woman, casual, warm and upbeat, clear diction, paced evenly across the 5 seconds: "마지막, 크림 터틀넥에 브라운 롱베스트, 그리고 롱부츠." Voice only, no background music.
 
 Clean hard cuts only, no transitions, no morphing, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
 ```
