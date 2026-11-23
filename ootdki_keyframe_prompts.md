@@ -165,3 +165,25 @@ Locked-off static vertical camera, no zoom, no pan, no camera shake. Full body s
 ```
 Locked-off static vertical 9:16 camera, full body head to toe, same woman from @Model in the @Background space, soft natural daylight. Hard-cut outfit-of-the-day layering reel, about 20 seconds. Look 1: white tank and black leggings, then a black turtleneck, then a belted charcoal houndstooth blazer, then black pointed ankle boots with a black top-handle bag. Look 2: white tank and leggings, then a black sleeveless mock-neck top, then a belted oversized oatmeal cardigan, then black knee-high boots with a burgundy bag. Look 3: white tank and leggings, then a cream turtleneck, then a belted long chocolate-brown sleeveless duster, then brown knee-high riding boots with a burgundy tote. Each shot lasts 1–3 seconds with a hard cut to the next layer. In every shot she makes small natural gestures toward the outfit: a weight shift, a hand at the collar or shoulder, a slight hip turn. Identical framing and lighting across every cut. No camera movement, no text, no morphing between outfits.
 ```
+
+---
+
+## 릴스 통합 영상 프롬프트 (최종, 이것만 쓰면 됨)
+레퍼런스로 12컷 그리드 이미지를 **@Image1**로 첨부. 9:16, 15초.
+```
+Vertical 9:16 Instagram Reels outfit-of-the-day layering video, 15 seconds, 12 shots with fast hard cuts on the beat. @Image1 is the storyboard: a 4×3 grid of 12 panels, read left to right, top to bottom; each shot recreates one panel exactly — same woman, same face and body, same outfit, same background, same framing. Locked-off static camera at eye level, full body head to toe centered in every shot, identical framing and soft natural daylight across all cuts, so only the outfit changes between cuts. The woman wears a high sleek bun, black cat-eye sunglasses and gold hoop earrings throughout.
+
+0.0–1.2s panel 1: white ribbed tank, black leggings, white socks; she shifts her weight onto one hip.
+1.2–2.4s panel 2: black turtleneck added; she touches the collar.
+2.4–3.6s panel 3: belted charcoal houndstooth blazer added; hand on chest, other hand gesturing out.
+3.6–5.0s panel 4: black pointed ankle boots and black top-handle bag; slight hip turn to show the silhouette.
+5.0–6.0s panel 5: back to white tank and black leggings; relaxed weight shift.
+6.0–7.2s panel 6: black sleeveless mock-neck top; hand at her shoulder, says a few words to camera.
+7.2–8.4s panel 7: oversized oatmeal cardigan with wide brown belt; touches her earring.
+8.4–10.0s panel 8: black knee-high boots and burgundy bag; confident pose.
+10.0–11.0s panel 9: back to white tank and black leggings; slight body angle.
+11.0–12.2s panel 10: cream turtleneck; hand near shoulder, small head tilt.
+12.2–13.4s panel 11: belted long chocolate-brown sleeveless duster; the knit sways as she shifts.
+13.4–15.0s panel 12: brown knee-high riding boots and burgundy tote; small hip turn, holds the final pose.
+
+Clean hard cuts only, no transitions, no morphing between outfits, no camera movement. Photorealistic, natural hands, realistic fabric motion. No text, no captions, no watermark, no extra people.
