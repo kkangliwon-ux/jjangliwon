@@ -137,3 +137,31 @@ Row 3 (Look 3), left to right:
 
 Photorealistic, realistic skin texture, natural hands, crisp editorial outfit-of-the-day look. No text, no captions, no numbers, no watermark, no extra people.
 ```
+
+---
+
+## 모션 프롬프트 (image-to-video, 클립 10개)
+그리드에서 잘라낸 키프레임을 start frame으로 넣으세요. 클립 2와 6은 start/end frame 두 장을 씁니다. 길이는 원본 컷에 맞추고, 생성은 5초로 한 뒤 잘라 쓰면 됩니다.
+
+### 공통 모션 블록 (모든 클립 앞에 붙이기)
+```
+Locked-off static vertical camera, no zoom, no pan, no camera shake. Full body stays in frame head to toe. The woman keeps her exact face, outfit, sunglasses and background throughout; nothing changes except her natural body movement. Real-time speed, casual outfit-of-the-day reel energy, soft natural daylight. No text, no morphing, no extra people.
+```
+
+| # | 길이 | 프레임 | 모션 |
+|---|---|---|---|
+| 1 | 1.8s | KF01 | `She stands relaxed, shifts her weight onto one hip, gives a small smile and lets her arms swing slightly.` |
+| 2 | 3.6s | KF02 → KF03 | `She touches the turtleneck collar, then in one smooth motion slips on the houndstooth blazer, cinches the belt at her waist and rests one hand on her chest, gesturing outward with the other.` |
+| 3 | 1.7s | KF04 | `She stands tall in the ankle boots, lifts the black bag slightly, small turn of the hips to show the silhouette, then settles back facing camera.` |
+| 4 | 1.2s | KF05 | `Quick relaxed stance, slight weight shift, arms loose at her sides.` |
+| 5 | 1.7s | KF06 | `She raises one hand to her shoulder, speaks a few words to the camera, head tilting slightly.` |
+| 6 | 3.6s | KF07 → KF08 | `She adjusts the belted oatmeal cardigan and touches her earring, then appears in black knee-high boots holding the burgundy bag, shifting her weight with a confident pose.` |
+| 7 | 0.9s | KF09 | `Brief relaxed stance, slight body angle, one arm moving slightly away from her hip.` |
+| 8 | 1.4s | KF10 | `She lifts one hand near her shoulder to present the cream turtleneck, small head tilt.` |
+| 9 | 2.0s | KF11 | `She smooths the front of the brown duster, the long knit fabric swaying gently as she shifts her weight.` |
+| 10 | 2.0s | KF12 | `She stands tall in the riding boots, swings the burgundy tote slightly, small hip turn, duster hem swaying, then holds the final pose.` |
+
+### 통합 모션 프롬프트 (한 번에 이어서 생성할 때)
+```
+Locked-off static vertical 9:16 camera, full body head to toe, same woman from @Model in the @Background space, soft natural daylight. Hard-cut outfit-of-the-day layering reel, about 20 seconds. Look 1: white tank and black leggings, then a black turtleneck, then a belted charcoal houndstooth blazer, then black pointed ankle boots with a black top-handle bag. Look 2: white tank and leggings, then a black sleeveless mock-neck top, then a belted oversized oatmeal cardigan, then black knee-high boots with a burgundy bag. Look 3: white tank and leggings, then a cream turtleneck, then a belted long chocolate-brown sleeveless duster, then brown knee-high riding boots with a burgundy tote. Each shot lasts 1–3 seconds with a hard cut to the next layer. In every shot she makes small natural gestures toward the outfit: a weight shift, a hand at the collar or shoulder, a slight hip turn. Identical framing and lighting across every cut. No camera movement, no text, no morphing between outfits.
+```
