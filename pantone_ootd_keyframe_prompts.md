@@ -121,3 +121,9 @@ Locked-off static vertical camera on a pure white background, no zoom, no pan. F
 | 5 | 6.8–8.4s | KF05 → KF06 | `She spins to face camera in the butter-yellow and chocolate look in full color, the sheer shirt fluttering, settles one hand on her hip, chin up.` |
 | 6 | 8.4–9.3s | KF06 → KF07 | `She steps to the side in profile, black-and-white with motion blur, wide linen trousers flowing, as a butter-yellow card slides in from the top.` |
 | 7 | 9.3–11.1s | KF07 → KF08 | `Swatch cards in cherry red, sky blue and olive drop into place; she appears facing camera in the sporty track-jacket look in full color, arms at her sides, and holds still for the final pose.` |
+
+---
+
+## 영상 프롬프트 v2 (원본 타이밍·턴 동작 프레임 분석 반영)
+원본 11.1초를 0.1초 단위로 분석한 타이밍. 전환마다 제자리에서 같은 방향으로 약 2바퀴 연속 회전(정면→옆→뒤→옆→정면(흑백)→옆→뒤(옷 교체)→정면 컬러), 약 1.2초.
+@Image1 = 인트로 흑백(1번), @Image2–@Image5 = Look 1–4 정면(2·4·6·8번). 프롬프트 본문은 대화에 있는 v2 블록과 동일.
