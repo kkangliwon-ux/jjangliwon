@@ -126,4 +126,39 @@ Locked-off static vertical camera on a pure white background, no zoom, no pan. F
 
 ## 영상 프롬프트 v2 (원본 타이밍·턴 동작 프레임 분석 반영)
 원본 11.1초를 0.1초 단위로 분석한 타이밍. 전환마다 제자리에서 같은 방향으로 약 2바퀴 연속 회전(정면→옆→뒤→옆→정면(흑백)→옆→뒤(옷 교체)→정면 컬러), 약 1.2초.
-@Image1 = 인트로 흑백(1번), @Image2–@Image5 = Look 1–4 정면(2·4·6·8번). 프롬프트 본문은 대화에 있는 v2 블록과 동일.
+@Image1 = 인트로 흑백(1번), @Image2–@Image5 = Look 1–4 정면(2·4·6·8번).
+
+```
+11.1-second vertical 9:16 fashion lookbook motion-graphics video, 30fps. @Image1 is the black-and-white intro frame; @Image2, @Image3, @Image4 and @Image5 show the exact outfits, swatch colours and framing of Look 1, Look 2, Look 3 and Look 4. One young woman, the same woman as in the images: same face, high sleek bun, gold hoop earrings, no sunglasses. Full body, cleanly cut out on a pure white background, always standing on the exact same spot in the centre of the frame. Collage style: tilted paper Pantone-style swatch cards (solid colour, white label strip with a small printed code, pinked zig-zag edges) layered behind her. Locked camera except for the intro zoom-out. Lightweight summer clothing.
+
+BOTTOM FAN (whole video): a half-circle fan of swatch chips sits along the bottom edge and rotates slowly clockwise. During every spin transition it whips around fast with motion blur and comes to rest showing the next look's colour family: warm sands and terracottas for Look 1, blues for Look 2, yellows and browns for Look 3, reds, sky blues and olives for Look 4.
+
+THE SPIN TRANSITION (identical every time, about 1.2 seconds, she never steps off her spot):
+She spins in place continuously in ONE direction, about two full rotations, quick and smooth like a fashion twirl:
++0.0s still facing camera in colour, she starts turning; the top swatch card slides straight up out of the top of the frame.
++0.3s profile, then +0.4s her back faces the camera. As her back comes round, colour drains from her body starting at the feet and rising to the head; the middle and bottom cards slide up and out of the top of the frame one after another.
++0.6s profile again, now almost fully black-and-white.
++0.7s she passes through facing the camera for a split second, fully BLACK-AND-WHITE, still in the old outfit.
++0.8s profile, still black-and-white.
++0.9s her back faces the camera again: the OUTFIT SWAPS while her back is turned. At that moment three new tilted swatch cards in the next look's colours fly up from below the bottom edge with heavy motion blur, sweeping past her legs, and colour floods into the NEW outfit from the feet upward (shoes and bottoms in colour first, top still grey).
++1.1s three-quarter view, the new outfit now fully in colour.
++1.2s she lands facing the camera in the hold pose; the cards lock into a staggered vertical stack behind her: top card behind head and shoulders tilted one way, middle card behind torso tilted the other way, bottom card behind legs tilted like the top one.
+
+HOLD: she stays facing the camera with small natural motion (gentle weight shift, slight head tilt, hands adjusting the clothes), and the three cards drift and rotate a few degrees.
+
+TIMELINE:
+0.0–0.4s: Camera starts zoomed in close (she fills the frame, cropped at the shins), BLACK-AND-WHITE, in the Look 1 linen blazer, tank and Bermuda shorts, arms crossed, in side profile looking down; behind her a huge diagonal fan of warm swatch cards (yellow-orange → coral → red → magenta) fills the background. She turns to face the camera while the camera slowly zooms out.
+0.4–1.4s: Facing the camera in black-and-white, arms crossed, slight weight shift, exactly like @Image1; the camera keeps zooming out slowly.
+1.4–2.0s: She spins one full rotation in place (profile, back at 1.6s, profile, front at 2.0s). Meanwhile the huge fan rotates clockwise and slides down, shrinking into the small half-circle fan at the bottom edge. At 2.0s she faces the camera, full body, still black-and-white.
+2.0–2.4s: Look 1 cards (sand beige / off-white / tan) fly up from the bottom with motion blur and colour floods into her from the feet up; by 2.4s she is in full colour, matching @Image2.
+2.4–3.5s: LOOK 1 HOLD: unlined sand-beige linen blazer with pushed-up sleeves, off-white ribbed tank, sand linen Bermuda shorts, tan fisherman sandals, raffia tote; arms crossed, slight smirk.
+3.5–4.7s: SPIN TRANSITION; outfit swap at about 4.4s.
+4.7–5.9s: LOOK 2 HOLD, matching @Image3: thin cornflower-blue cropped puff-sleeve cardigan, white eyelet camisole, navy satin midi slip skirt, navy mesh ballet flats, white woven bag; one hand holding the cardigan edge. Cards: cornflower blue / white / navy.
+5.9–7.0s: SPIN TRANSITION; outfit swap at about 6.7s.
+7.0–7.9s: LOOK 3 HOLD, matching @Image4: sheer butter-yellow shirt worn open with rolled sleeves, chocolate-brown ribbed halter top, ivory linen wide-leg drawstring trousers, brown thong sandals, brown shoulder bag; one hand on her hip, the other in her trouser pocket. Cards: butter yellow / chocolate brown / ivory.
+7.9–9.1s: SPIN TRANSITION; outfit swap at about 8.8s.
+9.1–11.1s: LOOK 4 FINAL HOLD, matching @Image5: cherry-red nylon track jacket with white side stripes, sky-blue baby tee, olive running shorts with white piping, white ankle socks, white-and-red sneakers; arms relaxed at her sides, toes slightly in, calm direct gaze. The video ends on this pose.
+
+RULES: The same woman, face and hairstyle throughout, never wearing sunglasses. Every spin goes in the same direction and she never moves off her spot. Colour always drains and floods from the feet upward. Old cards always exit through the top; new cards always enter from the bottom. The outfit only ever changes while her back faces the camera, never while facing the camera or in profile. During holds the outfit is frozen and identical to its reference image. Transitions land on the beat. No cross-dissolves, no morphing, no camera shake, no text other than the small codes on the cards.
+AUDIO: upbeat summer fashion pop beat; a whoosh each time the cards fly up.
+```
