@@ -43,20 +43,20 @@ Image-to-video, start from the attached image. Locked-off static camera: no zoom
 0.2s  LEFT: holds the opened zipper, the left panel swaying slightly; right side top edge stays at bust height. RIGHT: still.
 0.4s  LEFT: brings the opened left panel back up across her chest with both hands so only a thin strip of the black tube top shows at the top edge; her left hand then grabs the loose satin at her left side. RIGHT: still.
 0.6s  LEFT: right forearm across her chest holding the top edge in place; left hand pulls the loose satin at her left side outward and up to waist height; the left side of the hem rises toward the knee, the right side stays at mid-calf. RIGHT: still.
-0.8s  LEFT: right hand holds fabric at her left armpit, left hand raises the gathered corner toward her left shoulder; hem diagonal from mid-calf to knee. RIGHT: still.
-1.0s  LEFT: right hand now on her left shoulder holding a fold of satin as it goes over; left side of the hem above the knee. RIGHT: still.
-1.2s  LEFT: a large swath of satin pulled over her left shoulder; the front hem rises to upper thigh on her right leg, a cascade hangs from her left shoulder to the knee. RIGHT: still.
-1.4s  LEFT: right hand gripping the fabric at her left shoulder, satin twisted diagonally from left shoulder to right hip, right shoulder bare, asymmetric hem: upper thigh on the right, knee-length cascade on the left. RIGHT: arms relaxed.
+0.8s  LEFT: her right arm crosses her chest holding the top edge at her left chest; her left hand lifts the gathered satin from her left hip toward her left chest; the left side of the hem rises to the knee, the right side stays at mid-calf. RIGHT: still.
+1.0s  LEFT: her right hand grips the gathered satin at her left upper chest; her left hand lifts the corner up toward her left shoulder; the more fabric she lifts, the shorter the hem gets: just above the knee on her right leg, higher on her left leg. RIGHT: still.
+1.2s  LEFT: both hands at her left upper chest raising a large section of satin; a cascade forms down her left side (image-right); her left thigh becomes exposed under it, the hem on her right leg (image-left) at mid-thigh. RIGHT: still.
+1.4s  LEFT: both shoulders still bare, fabric NOT over the shoulder yet; top edge runs diagonally from under her right armpit (image-left) up to her left shoulder (image-right); her right hand crosses her chest gripping gathered satin just below her left collarbone; her left hand, elbow bent and raised, holds the lifted corner at her left shoulder height with the lighter inner lining showing at the edge; a wide cascade hangs down her left side (image-right) to mid-thigh showing the darker inner side; hem at mid-thigh on her right leg (image-left), her left upper thigh (image-right) exposed under the cascade. RIGHT: arms relaxed.
 ```
 
 ## SEG 4 — KF4 시작 · 2.4초 (원본 3.6–6.0s)
 
 ```
-Image-to-video, start from the attached image. Locked-off static camera: no zoom, no pan, no cuts. Split screen: LEFT half = STYLING, RIGHT half = WEARING. Keep both women's face, makeup, outfit, room and lighting exactly as in the start image. Hair stays loose and down the whole time. Physics: the drape keeps the same amount of fabric, hem stays at upper thigh in front; the cascade swings and settles with realistic weight; when she turns, the satin follows the turn with a slight delay. No text. Duration 2.4s.
+Image-to-video, start from the attached image. Locked-off static camera: no zoom, no pan, no cuts. Split screen: LEFT half = STYLING, RIGHT half = WEARING. Keep both women's face, makeup, outfit, room and lighting exactly as in the start image. Hair stays loose and down the whole time. Physics: as she lays the lifted corner over her left shoulder the hem stays short (mid-thigh on her right leg, upper thigh on her left); the cascade swings and settles with realistic weight; when she turns, the satin follows the turn with a slight delay. No text. Duration 2.4s.
 
-0.0s  LEFT: right hand at her left shoulder, one-shoulder asymmetric drape, eyes to camera. RIGHT: arms relaxed.
-0.2s  LEFT: tightens the fold at her shoulder, cascade sways. RIGHT: still.
-0.4s  LEFT: drape settles, eyes to camera. RIGHT: still.
+0.0s  LEFT: both shoulders still bare, fabric NOT over the shoulder yet; top edge runs diagonally from under her right armpit (image-left) up to her left shoulder (image-right); her right hand crosses her chest gripping gathered satin just below her left collarbone; her left hand, elbow bent and raised, holds the lifted corner at her left shoulder height with the lighter inner lining showing at the edge; a wide cascade hangs down her left side (image-right) to mid-thigh showing the darker inner side; hem at mid-thigh on her right leg (image-left), her left upper thigh (image-right) exposed under the cascade. RIGHT: arms relaxed.
+0.2s  LEFT: her left hand holds the corner on top of her left shoulder, her right hand at her left collarbone; cascade sways. RIGHT: still.
+0.4s  LEFT: her left hand lays the corner over the top of her left shoulder so the satin now drapes over it; right shoulder stays bare; drape settles, eyes to camera. RIGHT: still.
 0.6s  LEFT: tilts her head down to look at her chest; right forearm horizontal across her upper chest adjusting the fold; the cascade forms a wide wing down her left arm. RIGHT: turns her head to her left into three-quarter profile, chin slightly down.
 0.8s  LEFT: both hands at her upper chest tucking the satin edge, head down. RIGHT: holds the profile.
 1.0s  LEFT: right hand presses the fabric at her left collarbone. RIGHT: profile.
