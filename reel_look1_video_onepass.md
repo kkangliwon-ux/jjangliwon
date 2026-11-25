@@ -13,17 +13,17 @@ PROPS (LEFT half): brown satin open-toe mules on the floor beside her right foot
 
 ORIENTATION LOCK: in front views her right side is on image-left and her left side is on image-right of the left half; in back views this flips. The satin goes over HER LEFT shoulder and the shawl-like cascade / wide draped sleeve hangs on HER LEFT arm, the same side as the covered shoulder; her right arm stays bare. The belt is slung low on her hips with the buckle just right of center; the clutch goes in her RIGHT hand. Never mirror the keyframes. Exactly one pair of mules and exactly one clutch exist; the top stays a wrapped satin drape (no seams, no cuffs); the WEARING woman on the right never gets a sleeve.
 
-PHYSICS: the satin skirt is one piece with a fixed length; worn at the natural waist its hem grazes the floor. The hem rises exactly as much as the waistband is lifted (waistband at chest = hem at mid-calf) and never touches the floor while the waistband is above her waist. Opening the zipper does not lower the skirt or change the hem. Fabric gathered, folded or draped over the shoulder shortens the hem by that amount. Satin has realistic weight: it swings, follows turns with a slight delay, and settles under gravity.
+PHYSICS: the satin skirt is one piece with a fixed length; worn at the natural waist its hem grazes the floor. The hem rises exactly as much as the waistband is lifted (waistband at the natural waist = hem grazing the floor; pulled up to the chest = hem at mid-calf) and never touches the floor while the waistband is above her waist. Opening the zipper does not lower the skirt or change the hem. Fabric gathered, folded or draped over the shoulder shortens the hem by that amount. Satin has realistic weight: it swings, follows turns with a slight delay, and settles under gravity.
 
 STYLE: photorealistic, natural skin texture, realistic satin sheen, smartphone fashion reel look, natural human motion speed. No text, labels, captions or watermark. No extra people.
 
 TIMELINE (LEFT = styling, RIGHT = wearing):
-0.0s  [KEYFRAME 1: must match attached image 1 exactly]  LEFT: arms at chest height stretching the waistband wide just under her armpits, hem at mid-calf. RIGHT: arms relaxed at sides.
-0.2s  LEFT: holds the pose, satin sways slightly. RIGHT: still.
-0.4s  LEFT: lifts the stretched waistband to her collarbone, forearms vertical; the hem rises to upper calf. RIGHT: still.
-0.6s  LEFT: holds the waistband taut at the collarbone, satin falls in long straight folds. RIGHT: moves both hands to the front of her hips.
-0.8s  LEFT: starts bringing her hands inward. RIGHT: smooths the skirt with both palms on her hips.
-1.0s  LEFT: lowers the waistband onto her bust and presses it to her chest with her fingertips, elbows out; worn as a strapless tube dress, hem back at mid-calf. RIGHT: hands on hips.
+0.0s  [KEYFRAME 1: must match attached image 1 exactly]  LEFT: she wears the satin skirt the normal way, at her natural waist over the black strapless tube top, exactly like the right half: hem grazing the floor, barefoot toes just peeking out; both hands grip the waistband at the sides of her hips, thumbs hooked inside; standing straight, eyes to camera. RIGHT: standing straight, arms relaxed at sides, same outfit as the left.
+0.2s  LEFT: starts pulling the waistband straight up with both hands; it slides up over her ribs; the hem lifts off the floor by the same distance, her toes and feet appear. RIGHT: still.
+0.4s  LEFT: waistband now at her lower ribs, covering the bottom of the tube top; hem at the ankles. RIGHT: still.
+0.6s  LEFT: pulls the waistband up over the bust, covering the black tube top completely; hem rises to lower calf. RIGHT: moves both hands to the front of her hips.
+0.8s  LEFT: final tug: waistband settles straight across her upper chest just under the armpits; hem at mid-calf; satin swings and settles. RIGHT: smooths the skirt with both palms on her hips.
+1.0s  LEFT: presses the top edge to her chest with her fingertips at both sides, elbows out; now worn as a strapless tube dress, hem at mid-calf. RIGHT: hands on hips.
 1.2s  [KEYFRAME 2: must match attached image 2 exactly]  LEFT: lets go and raises both open palms beside her shoulders in a playful "ta-da", light smile. RIGHT: hands lightly at the sides of her hips.
 1.4s  LEFT: opens her arms wider at shoulder height, palms up, light smile. RIGHT: lowers arms to her sides.
 1.6s  LEFT: lowers her arms out from her sides at hip level, palms forward. RIGHT: arms relaxed.

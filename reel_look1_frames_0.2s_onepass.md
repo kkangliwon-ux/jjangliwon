@@ -24,12 +24,12 @@ PHYSICS RULES:
 STYLE: photorealistic, natural skin texture, realistic satin reflections, smartphone fashion reel look. No text, labels, captions, numbers or watermark. No extra people.
 
 FRAMES:
-t=0.0s | LEFT: barefoot, feet together. Both arms raised to chest height, elbows slightly bent, hands pinching the skirt's waistband and stretching it wide at upper chest just under the armpits; the edge of the black tube top peeks above the waistband. The skirt hangs as a wide flared cone, hem at mid-calf. Neutral face, eyes to camera. | RIGHT: standing straight, arms relaxed at sides, neutral face.
-t=0.2s | LEFT: same as previous, waistband still stretched wide at upper chest, fabric swaying slightly, hem at mid-calf. | RIGHT: same, arms relaxed at sides.
-t=0.4s | LEFT: lifts the stretched waistband up to collarbone level, hands at shoulder width, forearms vertical; the satin now covers the tube top completely; hem rises to upper calf. | RIGHT: arms relaxed at sides.
-t=0.6s | LEFT: waistband held taut at collarbone, elbows bent down, satin falling straight in long vertical folds, hem at upper calf, feet fully visible. | RIGHT: both hands move to the front of her hips.
-t=0.8s | LEFT: still holding the waistband at collarbone, starting to bring hands inward, fabric settling. | RIGHT: both hands resting flat on the front of her hips, smoothing the skirt.
-t=1.0s | LEFT: lowers the waistband to just above the bust and presses it against her chest with fingertips at both sides, elbows bent outward, now worn as a strapless tube dress; hem at mid-calf. | RIGHT: hands on front of hips.
+t=0.0s | LEFT: she wears the satin skirt the normal way, at her natural waist over the black strapless tube top, exactly like the right half: hem grazing the floor, barefoot toes just peeking out; both hands grip the waistband at the sides of her hips, thumbs hooked inside; standing straight, eyes to camera. | RIGHT: standing straight, arms relaxed at sides, same outfit as the left.
+t=0.2s | LEFT: starts pulling the waistband straight up with both hands; it slides up over her ribs; the hem lifts off the floor by the same distance, her toes and feet appear. | RIGHT: still.
+t=0.4s | LEFT: waistband now at her lower ribs, covering the bottom of the tube top; hem at the ankles. | RIGHT: still.
+t=0.6s | LEFT: pulls the waistband up over the bust, covering the black tube top completely; hem rises to lower calf. | RIGHT: moves both hands to the front of her hips.
+t=0.8s | LEFT: final tug: waistband settles straight across her upper chest just under the armpits; hem at mid-calf; satin swings and settles. | RIGHT: smooths the skirt with both palms on her hips.
+t=1.0s | LEFT: presses the top edge to her chest with her fingertips at both sides, elbows out; now worn as a strapless tube dress, hem at mid-calf. | RIGHT: hands on hips.
 t=1.2s | LEFT: lets go: both hands raised beside her shoulders, palms open facing camera in a playful "ta-da"; strapless satin tube dress, top edge across the bust, hem at mid-calf, bare shoulders. | RIGHT: hands lightly at hip sides.
 t=1.4s | LEFT: arms open wider at shoulder height, palms up, light smile, dress unchanged. | RIGHT: arms relaxed at sides.
 t=1.6s | LEFT: arms lowered and held out from her sides at hip level, palms facing forward, light smile. | RIGHT: arms relaxed at sides.
