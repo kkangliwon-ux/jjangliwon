@@ -52,7 +52,7 @@ ORIENTATION LOCK: in front views her right side is on image-left and her left si
 
 PROPS (LEFT half): brown mules on the floor beside her right foot; wide dark-brown leather belt and cream clutch on the bed edge behind her. Only her hands move them; at 2.2s she picks up the belt.
 
-PHYSICS: the skirt has a fixed length; the hem stays short (mid-thigh on her right leg) because the fabric is over the shoulder and in the cascade. Twisting and tucking the corner holds the drape on the shoulder, so after 1.2s it stays in place without her hands. Satin has realistic weight and follows the turn with a slight delay.
+PHYSICS: the skirt has a fixed length; the hem stays short (mid-thigh on her right leg) because the fabric is over the shoulder and in the cascade. Twisting the top edge into a roll and tucking it at her upper chest locks the drape, so after 1.2s it stays in place without her hands. From 0.4s on, her left shoulder and left upper arm stay covered by the satin like a cape; only her left forearm and hand show. Satin has realistic weight and follows the turn with a slight delay.
 
 STYLE: photorealistic, natural skin texture, realistic satin sheen, natural human motion speed. No text, labels, captions or watermark. No extra people.
 
