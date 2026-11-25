@@ -66,7 +66,7 @@ Image-to-video, start from the attached image. Locked-off static camera: no zoom
 1.8s  LEFT: right hand on chest, left hand at waist under the satin. RIGHT: profile.
 2.0s  LEFT: right fingertips at her left collarbone. RIGHT: turns her head back toward camera.
 2.2s  LEFT: picks up the leather belt from the bed edge with her right hand and starts turning around to her left, satin following the turn. RIGHT: facing front, arms relaxed.
-2.4s  LEFT: back view, turned away from camera, loose hair down her back; left arm extended out to the side holding the cascading satin away from her body to show its volume; right hand holding the belt; right shoulder and upper back bare; hem just above the knee. RIGHT: facing front, arms relaxed.
+2.4s  LEFT: back view, turned away from camera, loose hair swept forward over her right shoulder; the satin goes over her LEFT shoulder (image-left in this back view) with the top edge running diagonally from under her right armpit up to her left shoulder; her left arm extended out and down at 45 degrees holding the cascade, which starts at her left shoulder, fanned out wide; right arm relaxed holding the belt; right shoulder blade bare; mini hem at upper thigh. RIGHT: facing front, arms relaxed.
 ```
 
 ## SEG 5 — KF5 시작 · 2.4초 (원본 6.0–8.4s)

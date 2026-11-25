@@ -48,7 +48,7 @@ TIMELINE (LEFT = styling, RIGHT = wearing):
 5.4s  LEFT: right hand on chest, left hand at waist under the satin. RIGHT: profile.
 5.6s  LEFT: right fingertips at her left collarbone. RIGHT: turns her head back toward camera.
 5.8s  LEFT: picks up the leather belt from the bed edge with her right hand and starts turning around to her left, satin following the turn. RIGHT: facing front, arms relaxed.
-6.0s  [KEYFRAME 5: must match attached image 5 exactly]  LEFT: back view, turned away from camera, loose hair down her back; left arm extended out to the side holding the cascading satin away from her body to show its volume; right hand holding the belt; right shoulder and upper back bare; hem just above the knee. RIGHT: facing front, arms relaxed.
+6.0s  [KEYFRAME 5: must match attached image 5 exactly]  LEFT: back view, turned away from camera, loose hair swept forward over her right shoulder; the satin goes over her LEFT shoulder (image-left in this back view) with the top edge running diagonally from under her right armpit up to her left shoulder; her left arm extended out and down at 45 degrees holding the cascade, which starts at her left shoulder, fanned out wide; right arm relaxed holding the belt; right shoulder blade bare; mini hem at upper thigh. RIGHT: facing front, arms relaxed.
 6.2s  LEFT: lowers her left arm, satin swings back to her body. RIGHT: still.
 6.4s  LEFT: back view, both arms at her sides. RIGHT: still.
 6.6s  LEFT: turns back toward camera to her right, satin following. RIGHT: still.
