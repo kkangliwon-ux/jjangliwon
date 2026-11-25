@@ -7,7 +7,7 @@ Image-to-video, one continuous 10.4-second shot. Seven keyframe images are attac
 
 CAMERA: locked-off static camera for the whole shot. No zoom, no pan, no tilt, no cuts, no transitions.
 
-LAYOUT: split screen divided down the middle by a thin seam. LEFT half = STYLING, RIGHT half = WEARING. Same woman in both halves. Keep her face, makeup, skin tone and loose hair exactly as in the keyframes for the whole shot (hair always loose and down, never tied). Room and lighting never change.
+LAYOUT: split screen divided down the middle by a thin seam. LEFT half = STYLING, RIGHT half = WEARING. Same woman in both halves. Keep her face, makeup, skin tone and loose hair exactly as in the keyframes for the whole shot (hair always loose, never tied; at 5.8-6.6s she briefly sweeps it over her right shoulder so the back drape shows). Room and lighting never change.
 
 PROPS (LEFT half): brown satin open-toe mules on the floor beside her right foot until she steps into them at 7.4s; wide dark-brown leather belt with square silver buckle on the bed edge behind her until she picks it up at 5.8s; small cream woven leather clutch on the bed edge behind her right hip until she picks it up at 9.2s. Props only move when her hands or feet move them; nothing appears or disappears.
 
@@ -47,11 +47,11 @@ TIMELINE (LEFT = styling, RIGHT = wearing):
 5.2s  LEFT: looks up at camera; right hand on her chest just below the left shoulder, left hand under the drape at her left hip. RIGHT: profile.
 5.4s  LEFT: right hand on chest, left hand at waist under the satin. RIGHT: profile.
 5.6s  LEFT: right fingertips at her left collarbone. RIGHT: turns her head back toward camera.
-5.8s  LEFT: picks up the leather belt from the bed edge with her right hand and starts turning around to her left, satin following the turn. RIGHT: facing front, arms relaxed.
+5.8s  LEFT: picks up the leather belt from the bed edge with her right hand, sweeps her loose hair forward over her right shoulder, and starts turning around to her left, satin following the turn. RIGHT: facing front, arms relaxed.
 6.0s  [KEYFRAME 5: must match attached image 5 exactly]  LEFT: back view, turned away from camera, loose hair swept forward over her right shoulder; the satin goes over her LEFT shoulder (image-left in this back view) with the top edge running diagonally from under her right armpit up to her left shoulder; her left arm extended out and down at 45 degrees holding the cascade, which starts at her left shoulder, fanned out wide; right arm relaxed holding the belt; right shoulder blade bare; mini hem at upper thigh. RIGHT: facing front, arms relaxed.
 6.2s  LEFT: lowers her left arm, satin swings back to her body. RIGHT: still.
 6.4s  LEFT: back view, both arms at her sides. RIGHT: still.
-6.6s  LEFT: turns back toward camera to her right, satin following. RIGHT: still.
+6.6s  LEFT: turns back toward camera to her right, satin following; her hair falls back naturally over both shoulders. RIGHT: still.
 6.8s  LEFT: front view, head down, right arm out to the side holding the end of the wide leather belt; hem at mid-thigh. RIGHT: starts lifting her right hand.
 7.0s  LEFT: wraps the belt low around her hips over the satin, right hand holding the square silver buckle at center. RIGHT: points her right index finger toward the left half at waist level, left hand at her waist.
 7.2s  LEFT: threads the belt into the buckle, head down. RIGHT: keeps pointing.
@@ -60,15 +60,15 @@ TIMELINE (LEFT = styling, RIGHT = wearing):
 7.8s  LEFT: pulls the belt tail along her right hip. RIGHT: pointing.
 8.0s  LEFT: presses the belt end at her right hip, gaze down. RIGHT: pointing.
 8.2s  LEFT: tucks the belt tail into the belt at her right hip; satin bloused like a peplum above the shorts. RIGHT: pointing.
-8.4s  [KEYFRAME 6: must match attached image 6 exactly]  LEFT: looks up at camera, right hand at her right thigh tugging the satin hem, left arm lowered in the voluminous draped sleeve. RIGHT: lowers her arm, left hand lightly at hip.
+8.4s  [KEYFRAME 6: must match attached image 6 exactly]  LEFT: looks straight at camera; belt fastened low on her hips with the buckle just right of center, satin bunched over it like a soft bubble; her right hand (image-left) at her right thigh pinching and lifting the hem a little; her left arm (image-right) hangs inside the loose draped sleeve, elbow slightly bent, hand near her hip; the clutch still on the bed edge. RIGHT: lowers her arm, left hand lightly at hip, both arms bare.
 8.6s  LEFT: shifts her weight onto one leg in a slight contrapposto, left forearm bent outward showing the wide sleeve. RIGHT: smooths the skirt at her hip.
 8.8s  LEFT: angles her body slightly to her left, right hand at her thigh. RIGHT: arms relaxed.
 9.0s  LEFT: faces front, left arm out with the sleeve billowing, slight smile. RIGHT: arms relaxed at sides.
 9.2s  LEFT: right hand reaches back to her side and picks up the cream clutch, legs together. RIGHT: still.
-9.4s  LEFT: holds the clutch at her right hip, left forearm bent outward at waist level, right foot starts crossing in front of the left. RIGHT: still.
+9.4s  LEFT: holds the one clutch in her right hand at her right hip (image-left); her left forearm (image-right) bends outward at waist level, hand empty, the draped sleeve billowing; right foot starts crossing in front of the left. RIGHT: still.
 9.6s  LEFT: legs crossed at the ankles, right foot in front, in the open-toe heels; confident gaze into camera, subtle smile. RIGHT: neutral smile.
 9.8s  LEFT: holds the pose, sleeve settling. RIGHT: still.
 10.0s  LEFT: slight shoulder shift toward camera. RIGHT: still.
 10.2s  LEFT: holds still. RIGHT: still.
-10.4s  [KEYFRAME 7: must match attached image 7 exactly]  LEFT: final pose, clutch at hip, crossed legs, confident subtle smile into camera. RIGHT: standing straight, arms relaxed, neutral smile.
+10.4s  [KEYFRAME 7: must match attached image 7 exactly]  LEFT: final pose, the one clutch in her right hand at her right hip, left forearm bent outward with empty hand and billowing sleeve, legs crossed at the ankles, confident subtle smile into camera. RIGHT: standing straight, arms relaxed and bare, neutral smile.
 ```
