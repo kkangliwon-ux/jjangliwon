@@ -37,16 +37,16 @@ TIMELINE (LEFT = styling, RIGHT = wearing):
 3.2s  LEFT: her right hand grips the gathered satin at her left upper chest; her left hand lifts the corner up toward her left shoulder; the more fabric she lifts, the shorter the hem gets: just above the knee on her right leg, higher on her left leg. RIGHT: still.
 3.4s  LEFT: both hands at her left upper chest raising a large section of satin; a cascade forms down her left side (image-right); her left thigh becomes exposed under it, the hem on her right leg (image-left) at mid-thigh. RIGHT: still.
 3.6s  [KEYFRAME 4: must match attached image 4 exactly]  LEFT: both shoulders still bare, fabric NOT over the shoulder yet; top edge runs diagonally from under her right armpit (image-left) up to her left shoulder (image-right); her right hand crosses her chest gripping gathered satin just below her left collarbone; her left hand, elbow bent and raised, holds the lifted corner at her left shoulder height with the lighter inner lining showing at the edge; a wide cascade hangs down her left side (image-right) to mid-thigh showing the darker inner side; hem at mid-thigh on her right leg (image-left), her left upper thigh (image-right) exposed under the cascade. RIGHT: arms relaxed.
-3.8s  LEFT: her left hand holds the corner on top of her left shoulder, her right hand at her left collarbone; cascade sways. RIGHT: still.
-4.0s  LEFT: her left hand lays the corner over the top of her left shoulder so the satin now drapes over it; right shoulder stays bare; drape settles, eyes to camera. RIGHT: still.
-4.2s  LEFT: tilts her head down to look at her chest; right forearm horizontal across her upper chest adjusting the fold; the cascade forms a wide wing down her left arm. RIGHT: turns her head to her left into three-quarter profile, chin slightly down.
-4.4s  LEFT: both hands at her upper chest tucking the satin edge, head down. RIGHT: holds the profile.
-4.6s  LEFT: right hand presses the fabric at her left collarbone. RIGHT: profile.
-4.8s  LEFT: right hand flat on her upper chest, head down. RIGHT: profile.
-5.0s  LEFT: lifts her head slightly. RIGHT: profile.
-5.2s  LEFT: looks up at camera; right hand on her chest just below the left shoulder, left hand under the drape at her left hip. RIGHT: profile.
-5.4s  LEFT: right hand on chest, left hand at waist under the satin. RIGHT: profile.
-5.6s  LEFT: right fingertips at her left collarbone. RIGHT: turns her head back toward camera.
+3.8s  LEFT: her left hand lifts the corner up onto the top of her left shoulder (image-right); her right hand stays at her left collarbone; cascade sways. RIGHT: still.
+4.0s  LEFT: the corner is laid over her left shoulder; she starts tilting her head down to look at it; right shoulder stays bare. RIGHT: still.
+4.2s  LEFT: head down; her right arm crosses her chest and her right hand pinches the satin at the top of her left shoulder; her left arm is bent, elbow out to the side at chest height, left hand at her left shoulder near the neck holding the corner; she begins twisting the corner together with the top edge. RIGHT: turns her head to her left (image-right) into three-quarter profile, chin slightly down.
+4.4s  LEFT: both hands at the top of her left shoulder twist the corner and the top edge into a small tight roll to lock the drape; the cascade hangs off her bent left elbow as a wide wing on image-right. RIGHT: holds the profile.
+4.6s  LEFT: head down, both hands at her left shoulder tucking the twisted roll under the top edge so the drape is secured on the shoulder; right shoulder bare; wing of satin hanging from her bent left elbow to mid-thigh. RIGHT: profile.
+4.8s  LEFT: presses the tucked end in firmly with her fingertips. RIGHT: profile.
+5.0s  LEFT: her left hand lets go and drops to her left hip, holding the lower edge of the drape under the cascade; her right hand stays on the secured point; she lifts her head. RIGHT: profile.
+5.2s  LEFT: looks at camera; her right hand lies flat on her chest just below the secured point at her left shoulder, pressing it; left hand at her left hip under the cascade. RIGHT: profile.
+5.4s  LEFT: her right hand smooths the top edge across her chest toward her right side. RIGHT: profile.
+5.6s  LEFT: her right fingertips run along the top edge to her right armpit (image-left) and press it flat against her side so it stays. RIGHT: turns her head back toward camera.
 5.8s  LEFT: picks up the leather belt from the bed edge with her right hand, sweeps her loose hair forward over her right shoulder, and starts turning around to her left, satin following the turn. RIGHT: facing front, arms relaxed.
 6.0s  [KEYFRAME 5: must match attached image 5 exactly]  LEFT: back view, turned away from camera, loose hair swept forward over her right shoulder; the satin goes over her LEFT shoulder (image-left in this back view) with the top edge running diagonally from under her right armpit up to her left shoulder; her left arm extended out and down at 45 degrees holding the cascade, which starts at her left shoulder, fanned out wide; right arm relaxed holding the belt; right shoulder blade bare; mini hem at upper thigh. RIGHT: facing front, arms relaxed.
 6.2s  LEFT: lowers her left arm, satin swings back to her body. RIGHT: still.
