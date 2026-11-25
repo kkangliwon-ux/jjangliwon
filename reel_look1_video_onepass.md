@@ -11,6 +11,8 @@ LAYOUT: split screen divided down the middle by a thin seam. LEFT half = STYLING
 
 PROPS (LEFT half): brown satin open-toe mules on the floor beside her right foot until she steps into them at 7.4s; wide dark-brown leather belt with square silver buckle on the bed edge behind her until she picks it up at 5.8s; small cream woven leather clutch on the bed edge behind her right hip until she picks it up at 9.2s. Props only move when her hands or feet move them; nothing appears or disappears.
 
+ORIENTATION LOCK: in front views her right side is on image-left and her left side is on image-right of the left half; in back views this flips. The satin goes over HER LEFT shoulder and the shawl-like cascade / wide draped sleeve hangs on HER LEFT arm, the same side as the covered shoulder; her right arm stays bare. The belt is slung low on her hips with the buckle just right of center; the clutch goes in her RIGHT hand. Never mirror the keyframes.
+
 PHYSICS: the satin skirt is one piece with a fixed length; worn at the natural waist its hem grazes the floor. The hem rises exactly as much as the waistband is lifted (waistband at chest = hem at mid-calf) and never touches the floor while the waistband is above her waist. Opening the zipper does not lower the skirt or change the hem. Fabric gathered, folded or draped over the shoulder shortens the hem by that amount. Satin has realistic weight: it swings, follows turns with a slight delay, and settles under gravity.
 
 STYLE: photorealistic, natural skin texture, realistic satin sheen, smartphone fashion reel look, natural human motion speed. No text, labels, captions or watermark. No extra people.
@@ -51,10 +53,10 @@ TIMELINE (LEFT = styling, RIGHT = wearing):
 6.4s  LEFT: back view, both arms at her sides. RIGHT: still.
 6.6s  LEFT: turns back toward camera to her right, satin following. RIGHT: still.
 6.8s  LEFT: front view, head down, right arm out to the side holding the end of the wide leather belt; hem at mid-thigh. RIGHT: starts lifting her right hand.
-7.0s  LEFT: wraps the belt around her waist over the satin, right hand holding the square silver buckle at center. RIGHT: points her right index finger toward the left half at waist level, left hand at her waist.
+7.0s  LEFT: wraps the belt low around her hips over the satin, right hand holding the square silver buckle at center. RIGHT: points her right index finger toward the left half at waist level, left hand at her waist.
 7.2s  LEFT: threads the belt into the buckle, head down. RIGHT: keeps pointing.
 7.4s  LEFT: pulls the belt snug; the satin blouses over it; she steps into the brown satin mules on the floor. RIGHT: pointing.
-7.6s  LEFT: now standing in the mules; right hand on her right hip holding the belt tail, left hand at the buckle at front-left; the drape lifts on her right side showing dark brown mini shorts; hem at upper thigh. RIGHT: pointing.
+7.6s  LEFT: now standing in the mules; right hand on her right hip holding the belt tail, left hand at the buckle just right of center, belt slung low on her hips; the drape lifts on her right side showing dark brown mini shorts; hem at upper thigh. RIGHT: pointing.
 7.8s  LEFT: pulls the belt tail along her right hip. RIGHT: pointing.
 8.0s  LEFT: presses the belt end at her right hip, gaze down. RIGHT: pointing.
 8.2s  LEFT: tucks the belt tail into the belt at her right hip; satin bloused like a peplum above the shorts. RIGHT: pointing.
