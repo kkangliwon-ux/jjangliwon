@@ -19,17 +19,19 @@ ORIENTATION LOCK: front view, so her right side is on image-left and her left si
 
 LEFT half (STYLING): barefoot. She is securing a bronze-brown liquid satin maxi skirt as a one-shoulder drape over a black strapless tube top (the tube top is fully covered).
 POSITION LOCK:
-- The satin's top edge runs from just under her right armpit (image-left) diagonally up and OVER her left shoulder (image-right).
-- Her head is tilted down, eyes looking at her left shoulder.
-- Her right arm crosses her chest; her right hand pinches the satin on top of her left shoulder.
-- Her left arm is bent with the elbow out to the side at chest height; her left hand is at her left shoulder near the neck, and together with the right hand she is twisting the fabric corner and the top edge into a small tight roll and tucking it under the top edge to lock the drape in place.
-- The rest of the fabric cascades from her left shoulder down over her bent left elbow, forming a wide satin wing on image-right that reaches mid-thigh, darker inner side visible.
-- Hem: mid-thigh on her right leg (image-left); the cascade hangs lower on image-right.
+- COVERAGE LOCK: her LEFT shoulder and her entire LEFT upper arm (image-right) are completely COVERED by the satin, which falls over them like a cape. No bare skin on her left shoulder or left upper arm.
+- Only her left forearm and left hand are visible, coming up from under the cape: her left elbow is down at her side (NOT raised, NOT out to the side), forearm bent upward, left hand at her upper chest just left of center.
+- Her bare RIGHT arm (image-left) is bent and crosses toward the center; her right hand meets the left hand at the same spot on her upper chest. Right shoulder and right arm fully bare.
+- Both hands together are twisting the satin's top edge into a small tight roll and tucking it under the top edge to lock the drape.
+- The top edge runs from just under her right armpit (image-left) straight across the bust, then up and over her left shoulder.
+- Her head is tilted down, eyes on her hands.
+- The cascade hangs over the outside of her left arm as a wide satin wing on image-right reaching mid-thigh, darker inner side visible; dark brown mini shorts peek out below it.
+- Hem: the front panel curves from upper thigh on image-left; the cascade hangs to mid-thigh on image-right.
 - No sewn seams, no cuffs: it is clearly a wrapped skirt.
 
 RIGHT half (WEARING): black strapless tube top tucked into the bronze-brown satin mermaid maxi skirt worn at the natural waist, fitted at the hips and flaring so the hem grazes the floor, thin brown strappy heels. Her head is turned to her left (image-right) in three-quarter profile, chin slightly down. Arms relaxed and bare at her sides; no sleeve, no shawl.
 
-PHYSICS: the skirt has a fixed length; the fabric over the shoulder and in the cascade is taken from the length, so the hem is short. Satin hangs under gravity from her shoulder and her bent elbow.
+PHYSICS: the skirt has a fixed length; the fabric over the shoulder and in the cascade is taken from the length, so the hem is short. Satin hangs under gravity from her covered left shoulder.
 
 STYLE: photorealistic, natural skin texture, realistic satin sheen, smartphone fashion reel look. No text, labels, captions or watermark. No extra people.
 ```
@@ -57,10 +59,10 @@ STYLE: photorealistic, natural skin texture, realistic satin sheen, natural huma
 TIMELINE (LEFT = styling, RIGHT = wearing):
 0.0s  [KEYFRAME A]  LEFT: both shoulders bare; her right hand grips gathered satin just below her left collarbone; her left hand holds the lifted corner at her left shoulder height; cascade on her left side (image-right). RIGHT: arms relaxed.
 0.2s  LEFT: her left hand lifts the corner up onto the top of her left shoulder (image-right); her right hand stays at her left collarbone; cascade sways. RIGHT: still.
-0.4s  LEFT: the corner is laid over her left shoulder; she starts tilting her head down to look at it; right shoulder stays bare. RIGHT: still.
-0.6s  LEFT: head down; her right arm crosses her chest and her right hand pinches the satin at the top of her left shoulder; her left arm is bent, elbow out to the side at chest height, left hand at her left shoulder near the neck holding the corner; she begins twisting the corner together with the top edge. RIGHT: turns her head to her left (image-right) into three-quarter profile, chin slightly down.
-0.8s  LEFT: both hands at the top of her left shoulder twist the corner and the top edge into a small tight roll to lock the drape; the cascade hangs off her bent left elbow as a wide wing on image-right. RIGHT: holds the profile.
-1.0s  [KEYFRAME B]  LEFT: head down, both hands at her left shoulder tucking the twisted roll under the top edge so the drape is secured on the shoulder; right shoulder bare; wing of satin hanging from her bent left elbow to mid-thigh. RIGHT: profile.
+0.4s  LEFT: the corner is laid over her left shoulder so the satin now covers her left shoulder and falls down over her left upper arm like a cape; she starts tilting her head down; right shoulder stays bare. RIGHT: still.
+0.6s  LEFT: head down; her LEFT shoulder and LEFT upper arm are completely covered by the satin like a cape, only her left forearm and hand come up from under it, elbow down at her side, left hand at her upper chest just left of center; her bare right arm crosses to meet it, right hand pinching the top edge at the same spot; she begins twisting the top edge. RIGHT: turns her head to her left (image-right) into three-quarter profile, chin slightly down.
+0.8s  LEFT: both hands together at her upper chest just left of center twist the top edge into a small tight roll; the satin cape stays over her left shoulder and upper arm, the cascade hanging over the outside of her left arm as a wide wing on image-right to mid-thigh. RIGHT: holds the profile.
+1.0s  [KEYFRAME B]  LEFT: head down, both hands at her upper chest tucking the twisted roll under the top edge to secure the drape; left shoulder and upper arm still covered by the cape, right shoulder and right arm bare. RIGHT: profile.
 1.2s  LEFT: presses the tucked end in firmly with her fingertips. RIGHT: profile.
 1.4s  LEFT: her left hand lets go and drops to her left hip, holding the lower edge of the drape under the cascade; her right hand stays on the secured point; she lifts her head. RIGHT: profile.
 1.6s  LEFT: looks at camera; her right hand lies flat on her chest just below the secured point at her left shoulder, pressing it; left hand at her left hip under the cascade. RIGHT: profile.
