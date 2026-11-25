@@ -65,14 +65,14 @@ Image-to-video, start from the attached image. Locked-off static camera: no zoom
 1.6s  LEFT: looks up at camera; right hand on her chest just below the left shoulder, left hand under the drape at her left hip. RIGHT: profile.
 1.8s  LEFT: right hand on chest, left hand at waist under the satin. RIGHT: profile.
 2.0s  LEFT: right fingertips at her left collarbone. RIGHT: turns her head back toward camera.
-2.2s  LEFT: starts turning around to her left, satin following the turn. RIGHT: facing front, arms relaxed.
-2.4s  LEFT: back view, turned away from camera, loose hair down her back; left arm extended out to the side holding the cascading satin away from her body to show its volume; right shoulder and upper back bare; hem just above the knee. RIGHT: facing front, arms relaxed.
+2.2s  LEFT: picks up the leather belt from the bed edge with her right hand and starts turning around to her left, satin following the turn. RIGHT: facing front, arms relaxed.
+2.4s  LEFT: back view, turned away from camera, loose hair down her back; left arm extended out to the side holding the cascading satin away from her body to show its volume; right hand holding the belt; right shoulder and upper back bare; hem just above the knee. RIGHT: facing front, arms relaxed.
 ```
 
 ## SEG 5 — KF5 시작 · 2.4초 (원본 6.0–8.4s)
 
 ```
-Image-to-video, start from the attached image. Locked-off static camera: no zoom, no pan, no cuts. Split screen: LEFT half = STYLING, RIGHT half = WEARING. Keep both women's face, makeup, loose hair, outfit, room and lighting exactly as in the start image. Physics: a pair of brown satin open-toe mules sits on the floor at her feet and a wide dark-brown leather belt hangs in her right hand from the moment she turns; nothing appears out of nowhere. Cinching the belt blouses the satin over it and lifts the hem to upper thigh. Realistic satin weight. No text. Duration 2.4s.
+Image-to-video, start from the attached image. Locked-off static camera: no zoom, no pan, no cuts. Split screen: LEFT half = STYLING, RIGHT half = WEARING. Keep both women's face, makeup, loose hair, outfit, room and lighting exactly as in the start image. Physics: a pair of brown satin open-toe mules sits on the floor beside her right foot and the wide dark-brown leather belt is already in her right hand; nothing appears out of nowhere. Cinching the belt blouses the satin over it and lifts the hem to upper thigh. Realistic satin weight. No text. Duration 2.4s.
 
 0.0s  LEFT: back view, left arm holding the satin cascade out to the side. RIGHT: facing front, arms relaxed.
 0.2s  LEFT: lowers her left arm, satin swings back to her body. RIGHT: still.
