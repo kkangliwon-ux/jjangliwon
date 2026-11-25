@@ -24,14 +24,14 @@ Image-to-video, start from the attached image. Locked-off static camera: no zoom
 ## SEG 2 — KF2 시작 · 1.0초 (원본 1.2–2.2s)
 
 ```
-Image-to-video, start from the attached image. Locked-off static camera: no zoom, no pan, no cuts. Split screen: LEFT half = STYLING, RIGHT half = WEARING. Keep both women's face, makeup, loose hair, outfit, room and lighting exactly as in the start image. Physics: the satin skirt has a fixed length; when she opens the side zipper and the loosened waistband slips down to the bust line, the hem drops by the same small amount to lower calf; satin moves with realistic weight. No text. Duration 1.0s.
+Image-to-video, start from the attached image. Locked-off static camera: no zoom, no pan, no cuts. Split screen: LEFT half = STYLING, RIGHT half = WEARING. Keep both women's face, makeup, loose hair, outfit, room and lighting exactly as in the start image. Physics: the satin skirt has a fixed length; opening the zipper on her left side does not lower the skirt: the top edge on her right side stays at bust height and the hem stays at mid-calf; satin moves with realistic weight. No text. Duration 1.0s.
 
 0.0s  LEFT: palms open beside her shoulders, strapless satin tube dress, hem at mid-calf. RIGHT: hands lightly at hip sides.
 0.2s  LEFT: opens her arms wider at shoulder height, palms up, light smile. RIGHT: lowers arms to her sides.
 0.4s  LEFT: lowers her arms out from her sides at hip level, palms forward. RIGHT: arms relaxed.
-0.6s  LEFT: her right hand takes hold of the waistband at her left front; her left hand moves to the side seam at her left hip where the skirt's side zipper is. RIGHT: still.
-0.8s  LEFT: her right hand pulls the waistband away from her chest so the lighter inner lining shows; her left hand opens the side zipper at her left waist; the loosened waistband slips down to the bust line, revealing the black tube top above it; the hem drops slightly to lower calf. RIGHT: still.
-1.0s  LEFT: the waistband is opened and loosened at her left side and sits at the bust line; black tube top visible above it; her right hand holds the opened waistband edge at her left chest, showing the inner lining; her left hand holds the opened side at her left hip; hem at lower calf. RIGHT: arms relaxed.
+0.6s  LEFT: her right hand pinches the skirt's top edge at center front of her chest, holding it in place at bust height; her left hand goes to the top of the zipper on her left side (image-right side of the left half). RIGHT: still.
+0.8s  LEFT: her left hand pulls the zipper down along her left side; the top edge on her right side stays at bust height in her right hand; a narrow opening starts on her left chest showing the black tube top. RIGHT: still.
+1.0s  LEFT: zipper on her left side fully opened from the top edge down to her natural waist; the left panel folds outward and hangs from the bottom of the zipper, forming a triangular opening from bust to left waist that shows the black tube top; the top edge on her right side is still at bust height, held by her right hand with the lighter inner lining showing at the flap edge; her left hand at her left waist holding the zipper pull, elbow out; hem unchanged at mid-calf. RIGHT: arms relaxed.
 ```
 
 ## SEG 3 — KF3 시작 · 1.4초 (원본 2.2–3.6s)
@@ -39,10 +39,10 @@ Image-to-video, start from the attached image. Locked-off static camera: no zoom
 ```
 Image-to-video, start from the attached image. Locked-off static camera: no zoom, no pan, no cuts. Split screen: LEFT half = STYLING, RIGHT half = WEARING. Keep both women's face, makeup, loose hair, outfit, room and lighting exactly as in the start image. Physics: the satin skirt has a fixed length; as fabric is gathered and pulled over her shoulder, the hem rises by exactly the amount of fabric used, first on her left side, then across the front. No fabric appears from nowhere. Realistic satin weight and gravity. No text. Duration 1.4s.
 
-0.0s  LEFT: the waistband is opened and loosened at her left side and sits at the bust line; black tube top visible above it; her right hand holds the opened waistband edge at her left chest, showing the inner lining; her left hand holds the opened side at her left hip; hem at lower calf. RIGHT: arms relaxed.
-0.2s  LEFT: holds the waistband open, settling the loosened fit. RIGHT: still.
-0.4s  LEFT: pulls the waistband back up to just over the bust so only a thin strip of the black tube top shows; her right hand moves to her left chest; her left hand grabs the loose satin at her left side. RIGHT: still.
-0.6s  LEFT: right forearm across her chest holding the top edge in place; left hand pulls the satin at her left side outward and up to waist height; the left side of the hem rises toward the knee, the right side stays at mid-calf. RIGHT: still.
+0.0s  LEFT: zipper on her left side fully opened from the top edge down to her natural waist; the left panel folds outward and hangs from the bottom of the zipper, forming a triangular opening from bust to left waist that shows the black tube top; the top edge on her right side is still at bust height, held by her right hand with the lighter inner lining showing at the flap edge; her left hand at her left waist holding the zipper pull, elbow out; hem unchanged at mid-calf. RIGHT: arms relaxed.
+0.2s  LEFT: holds the opened zipper, the left panel swaying slightly; right side top edge stays at bust height. RIGHT: still.
+0.4s  LEFT: brings the opened left panel back up across her chest with both hands so only a thin strip of the black tube top shows at the top edge; her left hand then grabs the loose satin at her left side. RIGHT: still.
+0.6s  LEFT: right forearm across her chest holding the top edge in place; left hand pulls the loose satin at her left side outward and up to waist height; the left side of the hem rises toward the knee, the right side stays at mid-calf. RIGHT: still.
 0.8s  LEFT: right hand holds fabric at her left armpit, left hand raises the gathered corner toward her left shoulder; hem diagonal from mid-calf to knee. RIGHT: still.
 1.0s  LEFT: right hand now on her left shoulder holding a fold of satin as it goes over; left side of the hem above the knee. RIGHT: still.
 1.2s  LEFT: a large swath of satin pulled over her left shoulder; the front hem rises to upper thigh on her right leg, a cascade hangs from her left shoulder to the knee. RIGHT: still.
