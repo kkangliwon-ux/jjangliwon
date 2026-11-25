@@ -25,12 +25,12 @@ TIMELINE (LEFT = styling, RIGHT = wearing):
 1.2s  [KEYFRAME 2: must match attached image 2 exactly]  LEFT: lets go and raises both open palms beside her shoulders in a playful "ta-da", light smile. RIGHT: hands lightly at the sides of her hips.
 1.4s  LEFT: opens her arms wider at shoulder height, palms up, light smile. RIGHT: lowers arms to her sides.
 1.6s  LEFT: lowers her arms out from her sides at hip level, palms forward. RIGHT: arms relaxed.
-1.8s  LEFT: her right hand grips the top edge at center chest, left hand goes to her left hip, elbow out. RIGHT: still.
-2.0s  LEFT: right hand pulls the top edge down and outward, revealing the black tube top. RIGHT: still.
-2.2s  [KEYFRAME 3: must match attached image 3 exactly]  LEFT: the top of the satin is folded down to just under the bust, black tube top fully visible, right hand holding the folded edge at her left chest, left hand on hip. RIGHT: arms relaxed.
-2.4s  LEFT: holds the fold at the bust line, elbow out. RIGHT: still.
-2.6s  LEFT: right arm crosses her chest to gather fabric; left hand takes a section of satin at her left hip and starts lifting it. RIGHT: still.
-2.8s  LEFT: right forearm across chest covering the tube top again; left hand lifts the gathered satin to waist height; left side of the hem rises to the knee, right side stays at mid-calf. RIGHT: still.
+1.8s  LEFT: her right hand takes hold of the waistband at her left front; her left hand moves to the side seam at her left hip where the skirt's side zipper is. RIGHT: still.
+2.0s  LEFT: her right hand pulls the waistband away from her chest so the lighter inner lining shows; her left hand opens the side zipper at her left waist; the loosened waistband slips down to the bust line, revealing the black tube top above it; the hem drops slightly to lower calf. RIGHT: still.
+2.2s  [KEYFRAME 3: must match attached image 3 exactly]  LEFT: the waistband is opened and loosened at her left side and sits at the bust line; black tube top visible above it; her right hand holds the opened waistband edge at her left chest, showing the inner lining; her left hand holds the opened side at her left hip; hem at lower calf. RIGHT: arms relaxed.
+2.4s  LEFT: holds the waistband open, settling the loosened fit. RIGHT: still.
+2.6s  LEFT: pulls the waistband back up to just over the bust so only a thin strip of the black tube top shows; her right hand moves to her left chest; her left hand grabs the loose satin at her left side. RIGHT: still.
+2.8s  LEFT: right forearm across her chest holding the top edge in place; left hand pulls the satin at her left side outward and up to waist height; the left side of the hem rises toward the knee, the right side stays at mid-calf. RIGHT: still.
 3.0s  LEFT: right hand holds fabric at her left armpit, left hand raises the gathered corner toward her left shoulder; hem diagonal from mid-calf to knee. RIGHT: still.
 3.2s  LEFT: right hand now on her left shoulder holding a fold of satin as it goes over; left side of the hem above the knee. RIGHT: still.
 3.4s  LEFT: a large swath of satin pulled over her left shoulder; the front hem rises to upper thigh on her right leg, a cascade hangs from her left shoulder to the knee. RIGHT: still.
